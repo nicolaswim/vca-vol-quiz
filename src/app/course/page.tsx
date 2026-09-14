@@ -2,7 +2,9 @@ import Link from 'next/link';
 
 export default function CourseIndex() {
   const chapters = [
-    { id: 'arbowetgeving', title: 'Hoofdstuk 1: Arbowetgeving' }
+    { id: 'a1', title: 'Hoofdstuk 1: Arbowetgeving' },
+    { id: 'a2', title: 'Hoofdstuk 2: Gevaren, risico\'s en preventie' },
+    { id: 'a3', title: 'Hoofdstuk 3: Ongevallen en Noodsituaties' }
   ];
 
   return (
