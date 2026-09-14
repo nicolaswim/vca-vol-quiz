@@ -23,19 +23,43 @@ async function main() {
     chapters[q.chapter].push(q)
   }
   
-  for (const [chapterFile, questions] of Object.entries(chapters)) {
-    // "a1.plusport.com.har" -> "A1 Plusport Com" or we just hardcode "Arbowetgeving"
-    let title = chapterFile;
-    if (title.includes("a1")) title = "Arbowetgeving";
-    
+  // Hardcoded decks that have theory but maybe no flashcards
+  const allDecks = {
+    'a1': { title: 'Arbowetgeving', description: 'Wetgeving en Arbeidsinspectie' },
+    'a2': { title: 'Gevaren, risico\'s en preventie', description: 'Gevaren en risicobeheersing' },
+    'a3': { title: 'Ongevallen en Noodsituaties', description: 'Wat te doen bij nood' },
+    'a_vragen_1': { title: 'Oefentoets A1', description: 'Kennisvragen A1' }
+  }
+  
+  for (const [deckId, meta] of Object.entries(allDecks)) {
     const deck = await prisma.deck.create({
       data: {
-        title: title,
-        description: `Questions extracted from ${chapterFile}`
+        id: deckId, // Force ID to match module_id!
+        title: meta.title,
+        description: meta.description
       }
     })
+    console.log(`Created Deck: ${deck.title} (ID: ${deckId})`)
+  }
+
+  // Now seed questions
+  for (const [chapterFile, questions] of Object.entries(chapters)) {
+    let targetDeckId = chapterFile;
+    if (chapterFile.includes("a1")) targetDeckId = "a1";
+    if (chapterFile.includes("a2")) targetDeckId = "a2";
+    if (chapterFile.includes("a3")) targetDeckId = "a3";
     
-    console.log(`Created Deck: ${deck.title}`)
+    // Check if deck exists, otherwise create it dynamically
+    let deck = await prisma.deck.findUnique({ where: { id: targetDeckId } })
+    if (!deck) {
+        deck = await prisma.deck.create({
+          data: {
+            id: targetDeckId,
+            title: targetDeckId,
+            description: `Questions for ${targetDeckId}`
+          }
+        })
+    }
     
     for (const q of questions) {
         let options = q.options;
@@ -54,8 +78,7 @@ async function main() {
             }
         })
     }
-    
-    console.log(`  -> Added ${questions.length} cards`)
+    console.log(`  -> Added ${questions.length} cards to ${deck.title}`)
   }
 }
 
