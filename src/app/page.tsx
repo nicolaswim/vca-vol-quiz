@@ -208,6 +208,22 @@ export default function Home() {
               <ChevronRight size={18} className="text-blue-300" />
             </button>
 
+            
+            {/* 2.5 Theorie Cursus */}
+            <Link
+              href="/course"
+              className="w-full p-4 rounded-2xl bg-teal-600 text-white font-medium hover:bg-teal-700 transition flex items-center shadow-sm group"
+            >
+              <div className="w-10 h-10 rounded-xl bg-white/15 flex items-center justify-center mr-3.5 flex-shrink-0">
+                <BookOpen className="text-white" size={22} />
+              </div>
+              <div className="text-left flex-1">
+                <div className="font-semibold text-base leading-tight">Theorie (Cursus)</div>
+                <div className="text-xs text-teal-100 mt-0.5">Lees de lesstof per hoofdstuk</div>
+              </div>
+              <ChevronRight size={18} className="text-teal-300" />
+            </Link>
+
             {/* 3. Hoofdstukken & Proefexamen (Dedicated Sub-Menu!) */}
             <button
               onClick={() => setAppState('chapters')}
