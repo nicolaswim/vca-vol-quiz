@@ -208,5 +208,49 @@
       "Een korte vergadering in een informele sfeer over veiligheid, gezondheid en milieu."
     ],
     "explanation": "Een toolboxmeeting is een laagdrempelig en kort overlegmoment bedoeld om een specifiek veiligheidsonderwerp te bespreken."
+  },
+  {
+    "chapter": "a2",
+    "front": "Wat doe je als een collega onder invloed (van alcohol of drugs) is op de werkvloer?",
+    "back": "Meld dit direct bij je leidinggevende of directie.",
+    "options": [
+      "De collega helpen bij zijn werkzaamheden",
+      "Niets, dat is zijn eigen verantwoordelijkheid",
+      "Meld dit direct bij je leidinggevende of directie"
+    ],
+    "explanation": "Het is belangrijk voor de veiligheid om dit direct te melden bij je leidinggevende of directie."
+  },
+  {
+    "chapter": "a2",
+    "front": "Welke van de volgende acties is een juiste algemene gedragsregel om veilig te werken?",
+    "back": "Je geeft het goede voorbeeld en houdt je aan de gedragsregels.",
+    "options": [
+      "Je werkt aan tegenstrijdige opdrachten",
+      "Je geeft het goede voorbeeld en houdt je aan de gedragsregels",
+      "Je negeert de regels als de opdrachtgever daarom vraagt"
+    ],
+    "explanation": "Houd je aan de gedragsregels zodat iedereen veilig kan werken en geef het goede voorbeeld."
+  },
+  {
+    "chapter": "a2",
+    "front": "Welk voorbeeld past bij de actie 'Stimuleer veilig gedrag'?",
+    "back": "Een team krijgt taart omdat er 100 dagen ongevalvrij is gewerkt.",
+    "options": [
+      "Een team krijgt taart omdat er 100 dagen ongevalvrij is gewerkt.",
+      "Een medewerker krijgt een officiële waarschuwing omdat hij zijn veiligheidsbril niet draagt.",
+      "Medewerkers worden bestraft voor het maken van een melding."
+    ],
+    "explanation": "Het belonen van 100 dagen ongevalvrij werken stimuleert veilig gedrag. Een officiële waarschuwing is bedoeld om onveilig gedrag af te remmen."
+  },
+  {
+    "chapter": "a2",
+    "front": "Welke van de volgende situaties verhoogt de kans op onveilig gedrag?",
+    "back": "De werkopdracht is onvolledig.",
+    "options": [
+      "Er is onenigheid tussen de werkgever en de ondernemingsraad.",
+      "De werkopdracht is onvolledig.",
+      "Er zijn duidelijke afspraken gemaakt over de uitvoering van het werk."
+    ],
+    "explanation": "Als de werkopdracht onvolledig is, verhoogt dit de kans op onveilig gedrag."
   }
 ]
