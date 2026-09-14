@@ -52,6 +52,21 @@ export default function Home() {
   const [currentDeckId, setCurrentDeckId] = useState<string | null>(null);
   const [statsData, setStatsData] = useState<StatsData | null>(null);
 
+  
+  useEffect(() => {
+    if (typeof window !== 'undefined') {
+      const urlParams = new URLSearchParams(window.location.search);
+      const deckParam = urlParams.get('deck');
+      if (deckParam && decks.length > 0) {
+        const deckToStart = decks.find(d => d.title.toLowerCase().includes(deckParam.toLowerCase()) || d.id === deckParam);
+        if (deckToStart) {
+          window.history.replaceState({}, document.title, window.location.pathname);
+          startSession(deckToStart.id);
+        }
+      }
+    }
+  }, [decks]);
+
   useEffect(() => {
     fetch('/api/decks')
       .then(res => res.json())
