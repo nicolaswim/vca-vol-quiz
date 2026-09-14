@@ -94,5 +94,119 @@
       "Eigen personeel"
     ],
     "explanation": "De algemene veiligheidsregels zijn bedoeld voor iedereen die schade zou kunnen oplopen van de bedrijfsactiviteiten."
+  },
+  {
+    "chapter": "a_vragen_1",
+    "front": "Je bent leidinggevende en bent werkzaam bij een asbestverwijderingsbedrijf. Een van jouw medewerkers voert voorafgaand aan de werkzaamheden een LMRA uit. Hij vindt afwijkingen die niet in het werkplan staan. Wat doe je?",
+    "back": "Je neemt de nodige maatregelen voordat de medewerkers kunnen starten.",
+    "options": [
+      "Er is een werkvergunning, dus er hoeft niets gewijzigd te worden.",
+      "Je neemt de nodige maatregelen voordat de medewerkers kunnen starten.",
+      "We vullen achteraf de afwijkingen in. We gaan door."
+    ],
+    "explanation": "Als er bij de LMRA (Laatste Minuut Risico Analyse) afwijkingen worden gevonden, moet het werk veilig worden gesteld voordat men mag beginnen."
+  },
+  {
+    "chapter": "a_vragen_1",
+    "front": "Welke wet, die valt onder de nationale veiligheids- en gezondheidswetgeving, regelt de arbeidsomstandigheden op de werkvloer?",
+    "back": "Arbeidsomstandighedenwet (Arbowet)",
+    "options": [
+      "Arbeidsomstandighedenwet (Arbowet)",
+      "Wet milieubeheer",
+      "Arbeidstijdenwet"
+    ],
+    "explanation": "De Arbowet is de belangrijkste wet voor veiligheid en gezondheid op de werkvloer."
+  },
+  {
+    "chapter": "a_vragen_1",
+    "front": "Wanneer moet een taakrisico-analyse (TRA) worden bijgesteld?",
+    "back": "Als de werkcondities zijn veranderd.",
+    "options": [
+      "Nadat de taak is afgerond.",
+      "Als de werkcondities zijn veranderd."
+    ],
+    "explanation": "Een TRA is specifiek voor bepaalde werkomstandigheden. Als de situatie of het proces wijzigt, moet de TRA worden herzien."
+  },
+  {
+    "chapter": "a_vragen_1",
+    "front": "Waarom maak je een TRA?",
+    "back": "Om te zorgen dat medewerkers niet aan gevaarlijke werkzaamheden worden blootgesteld zonder de juiste maatregelen.",
+    "options": [
+      "Om gevaarlijke werkzaamheden te voorkomen.",
+      "Om te zorgen dat medewerkers niet aan gevaarlijke werkzaamheden worden blootgesteld."
+    ],
+    "explanation": "Het doel van een TRA is de risico's van een specifieke, risicovolle taak te inventariseren en daarvoor passende beheersmaatregelen te nemen."
+  },
+  {
+    "chapter": "a_vragen_1",
+    "front": "Wanneer voer je een TRA uit? (Selecteer alle juiste antwoorden)",
+    "back": "Bij het uitvoeren van taken en werkzaamheden, waar geen procedures voor zijn of bij aanvang van nieuwe projecten.",
+    "options": [
+      "Bij het uitvoeren van taken en werkzaamheden, waar geen procedures voor zijn of bij aanvang van nieuwe projecten.",
+      "Bij het aanschaffen van nieuwe machines of bij verbouwing of nieuwbouw.",
+      "Bij het opstellen en evalueren van procedures of, indien voorgeschreven, in het vergunningensysteem.",
+      "Bij medewerkers die een bovengemiddeld ziekteverzuim hebben en als de klantentevredenheid daalt."
+    ],
+    "explanation": "Een TRA wordt gemaakt voor specifieke, risicovolle uitvoerende werkzaamheden waar nog geen vaste procedures voor bestaan."
+  },
+  {
+    "chapter": "a_vragen_1",
+    "front": "Op wie is de Arbowetgeving van toepassing? (Selecteer alle juiste antwoorden)",
+    "back": "De werkgever, De werknemer, De uitzendkracht",
+    "options": [
+      "De bezoeker",
+      "De werkgever",
+      "De werknemer",
+      "De uitzendkracht"
+    ],
+    "explanation": "De Arbowet geldt voor werkgevers, werknemers en ook voor ingehuurd personeel zoals uitzendkrachten. Bezoekers vallen onder de verantwoordelijkheid van het bedrijf, maar de Arbowet zelf richt zich primair op de werkgever-werknemer relatie in brede zin."
+  },
+  {
+    "chapter": "a_vragen_1",
+    "front": "Welke acties kan de Inspectie SZW (Arbeidsinspectie) ondernemen bij een overtreding? (Selecteer alle juiste antwoorden)",
+    "back": "Opstellen van een boeterapport aan de werkgever naar aanleiding van een beboetbaar feit. Opstellen van een boeterapport aan de werknemer naar aanleiding van een beboetbaar feit.",
+    "options": [
+      "Opstellen van een boeterapport aan de werkgever naar aanleiding van een beboetbaar feit.",
+      "Opstellen van een boeterapport aan de werknemer naar aanleiding van een beboetbaar feit.",
+      "Opstellen van een boeterapport aan de omwonenden van de onderneming naar aanleiding van beboetbaar feit.",
+      "Geen van de antwoorden is goed."
+    ],
+    "explanation": "De Inspectie SZW kan boetes opleggen aan zowel de werkgever (bij onvoldoende zorg voor veiligheid) als de werknemer (bijv. negeren van veiligheidsregels)."
+  },
+  {
+    "chapter": "a_vragen_1",
+    "front": "Wat staat er globaal in het V&G-jaarplan?",
+    "back": "Wat het bedrijf dat jaar gaat doen om de werkplek veilig te houden, zoals acties, controles, opleidingen en verbeteringen.",
+    "options": [
+      "De data en afspraken voor alle toolboxmeetings.",
+      "De risico-analyses van de gevaarlijke werkzaamheden.",
+      "Alle preventieve maatregelen die het bedrijf neemt op het gebied van veiligheid en gezondheid.",
+      "Wat het bedrijf dat jaar gaat doen om de werkplek veilig te houden, zoals acties, controles, opleidingen en verbeteringen."
+    ],
+    "explanation": "Het V&G-plan is een actieplan voor het komende jaar om de veiligheid en gezondheid (V&G) binnen het bedrijf te verbeteren."
+  },
+  {
+    "chapter": "a_vragen_1",
+    "front": "Wie is verantwoordelijk voor de specifieke voorlichting en instructie van de uitzendkracht op de werkplek?",
+    "back": "De operationeel leidinggevende van de inlenende onderneming.",
+    "options": [
+      "De operationeel leidinggevende van de inlenende onderneming.",
+      "De overheid.",
+      "De uitzendkracht zelf.",
+      "Het uitlenende uitzendbureau."
+    ],
+    "explanation": "De inlener is verantwoordelijk voor de veiligheid en de werkplekspecifieke instructies van de uitzendkracht."
+  },
+  {
+    "chapter": "a_vragen_1",
+    "front": "Welke omschrijving past het beste bij een toolboxmeeting?",
+    "back": "Een korte vergadering in een informele sfeer over veiligheid, gezondheid en milieu.",
+    "options": [
+      "Een werkplekinspectie (audit) met checklists waarbij de leidinggevende tekortkomingen noteert.",
+      "Een formeel werkoverleg over planning, uren en productiecijfers.",
+      "Een verplichte jaarlijkse veiligheidstraining met toets en certificaat.",
+      "Een korte vergadering in een informele sfeer over veiligheid, gezondheid en milieu."
+    ],
+    "explanation": "Een toolboxmeeting is een laagdrempelig en kort overlegmoment bedoeld om een specifiek veiligheidsonderwerp te bespreken."
   }
 ]
