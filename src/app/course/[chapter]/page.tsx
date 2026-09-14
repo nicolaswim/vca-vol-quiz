@@ -6,9 +6,10 @@ export default async function ChapterHub({ params }: { params: Promise<{ chapter
   
   // Format the title beautifully
   let displayTitle = resolvedParams.chapter;
-  if (displayTitle === 'arbowetgeving') {
-    displayTitle = 'Hoofdstuk 1: Arbowetgeving';
-  }
+  if (displayTitle === 'a1') displayTitle = 'Hoofdstuk 1: Arbowetgeving';
+  if (displayTitle === 'a2') displayTitle = 'Hoofdstuk 2: Gevaren, risico\'s en preventie';
+  if (displayTitle === 'a3') displayTitle = 'Hoofdstuk 3: Ongevallen en Noodsituaties';
+  if (displayTitle === 'a_vragen_1') displayTitle = 'Oefentoets A1';
 
   return (
     <div className="min-h-screen bg-slate-50 flex flex-col items-center py-10 px-4">
