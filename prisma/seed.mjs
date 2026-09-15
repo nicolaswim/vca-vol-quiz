@@ -23,14 +23,14 @@ async function main() {
   
   // Hardcoded nice titles
   const metaInfo = {
-    'a1': { title: 'Arbowetgeving', description: 'Wetgeving en Arbeidsinspectie' },
+    'a1': { title: 'A1: Module 1: Regelgeving en veiligheidsregels', description: 'Wetgeving en Arbeidsinspectie' },
     'a2': { title: 'Gevaren, risico\'s en preventie', description: 'Gevaren en risicobeheersing' },
-    'a3': { title: 'Ongevallen en Noodsituaties', description: 'Wat te doen bij nood' },
-    'a_vragen_1': { title: 'Oefentoets A1', description: 'Kennisvragen A1' },
-    'a5_vragen_2': { title: 'Oefentoets A5', description: 'Kennisvragen A5' },
-    'b1': { title: 'B1: Veiligheidssignalisatie', description: 'Borden en Markeringen' },
-    'b2': { title: 'B2: Werkplekeisen', description: 'Veilige werkplek' },
-    'b3': { title: 'B3: Persoonlijke Bescherming', description: 'PBMs' }
+    'a3': { title: 'A3: Module 3: Preventie', description: 'Wat te doen bij nood' },
+    'a_vragen_1': { title: 'A4: Oefentoets deel A: Kennisvragen', description: 'Kennisvragen A1' },
+    'a5_vragen_2': { title: 'A5: Oefentoets deel A: Toepassingsvragen', description: 'Kennisvragen A5' },
+    'b1': { title: 'B1: Module 4: De werkplek', description: 'Borden en Markeringen' },
+    'b2': { title: 'B2: Module 5: Persoonlijke beschermingsmiddelen', description: 'Veilige werkplek' },
+    'b3': { title: 'B3: Module 6: Arbeidsmiddelen', description: 'PBMs' }
   }
 
   theory.forEach(t => {
