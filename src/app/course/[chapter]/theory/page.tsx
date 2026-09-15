@@ -12,7 +12,7 @@ export default async function TheoryPage({ params }: { params: Promise<{ chapter
     theoryData = JSON.parse(raw);
     
     // Filter strictly by module_id (e.g. 'a1', 'a2', 'a3')
-    theoryData = theoryData.filter(t => t.module_id === resolvedParams.chapter);
+    theoryData = theoryData.filter(t => t.chapter === resolvedParams.chapter || t.module_id === resolvedParams.chapter);
   } catch (e) {
     console.error(e);
   }
