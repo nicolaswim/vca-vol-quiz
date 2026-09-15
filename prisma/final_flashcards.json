@@ -1,9 +1,75 @@
 [
   {
-    "chapter": "a1.plusport.com.har",
-    "front": "Tijdens de nachtploeg raakt een medewerker ernstig gewond en moet voor behandeling worden opgenomen in het ziekenhuis. Wat moet de werkgever volgens de wet als eerste doen?",
-    "back": "Het ongeval doorgeven aan de arbodienst",
+    "chapter": "a1",
+    "front": "Deflnitie Afspraken maken",
+    "back": "Doel afspraken maken",
     "options": [
+      "Doel afspraken maken",
+      "Functies van goede afspraken maken",
+      "Inhoud van de afspraken",
+      "Oefening",
+      "Tijdens de nachtploeg raakt een medewerker ernstig gewond en moet voor behandeling worden opgenomen in het ziekenhuis."
+    ],
+    "explanation": "Wat moet de werkgever volgens de wet als eerste doen?"
+  },
+  {
+    "chapter": "a1",
+    "front": "direct te melden bij de Nederlandse Arbeidsinspectie. Het ongeval doorgeven aan",
+    "back": "de arbodienst",
+    "options": [
+      "de arbodienst",
+      "Het ongeval direct melden",
+      "aan de Arbeidsinspectie",
+      "(telefonisch of digitaal)",
+      "Zelf een intern onderzoek"
+    ],
+    "explanation": "starten en later melden"
+  },
+  {
+    "chapter": "a1",
+    "front": "Afspraken over veilige werkuitvoering Deflnitie",
+    "back": "Afspraken maken",
+    "options": [
+      "Afspraken maken",
+      "Doel afspraken maken",
+      "Functies van goede afspraken maken",
+      "Inhoud van de afspraken",
+      "Oefening"
+    ],
+    "explanation": "Kan de Nederlandse Arbeidsinspectie een procesverbaal opleggen aan zowel werkgevers als werknemers?"
+  },
+  {
+    "chapter": "a1",
+    "front": "Afspraken maken Doel afspraken maken",
+    "back": "Functies van goede afspraken maken",
+    "options": [
+      "Functies van goede afspraken maken",
+      "Inhoud van de afspraken",
+      "Oefening",
+      "Werkgever",
+      "Sleep nu de juiste verplichting naar de werkgever of werknemer."
+    ],
+    "explanation": "Werknemer"
+  },
+  {
+    "chapter": "a1",
+    "front": "Functies van goede afspraken maken \\\\n",
+    "back": "Inhoud van de afspraken",
+    "options": [
+      "Inhoud van de afspraken",
+      "\\\\n",
+      "Oefening",
+      "Tijdens de nachtploeg raakt een medewerker ernstig gewond en moet voor behandeling worden opgenomen in het ziekenhuis.\\\\n",
+      "Wat moet de werkgever volgens de wet als eerste doen?\\\\n"
+    ],
+    "explanation": "\\\\n"
+  },
+  {
+    "chapter": "a1",
+    "front": "Zelf een intern onderzoek starten en later melden Juist",
+    "back": "Bij een ernstig arbeidsongeval met ziekenhuisopname is de werkgever wettelijk verplicht dit direct te melden bij de Nederlandse Arbeidsinspectie.",
+    "options": [
+      "Bij een ernstig arbeidsongeval met ziekenhuisopname is de werkgever wettelijk verplicht dit direct te melden bij de Nederlandse Arbeidsinspectie.",
       "Het ongeval doorgeven aan de arbodienst",
       "De Arbeidsinspectie pas informeren als de verzekering dat vraagt",
       "Het ongeval direct melden aan de Arbeidsinspectie (telefonisch of digitaal)",
@@ -12,346 +78,961 @@
     "explanation": "Bij een ernstig arbeidsongeval met ziekenhuisopname is de werkgever wettelijk verplicht dit direct te melden bij de Nederlandse Arbeidsinspectie."
   },
   {
-    "chapter": "a1.plusport.com.har",
-    "front": "Kan de Nederlandse Arbeidsinspectie een procesverbaal opleggen aan zowel werkgevers als werknemers? Nee, alleen werknemers",
-    "back": "Nee, alleen werkgevers",
+    "chapter": "a1",
+    "front": "\\\\n Functies van goede afspraken maken",
+    "back": "\\\\n",
     "options": [
-      "Nee, alleen werkgevers"
+      "\\\\n",
+      "Inhoud van de afspraken",
+      "\\\\n",
+      "Oefening",
+      "Kan de Nederlandse Arbeidsinspectie een procesverbaal opleggen aan zowel werkgevers als werknemers?\\\\n"
     ],
-    "explanation": "Zij kan zowel werkgevers als werknemers een procesverbaal opleggen."
+    "explanation": "\\\\n"
   },
   {
-    "chapter": "a1.plusport.com.har",
-    "front": "Wie is er verantwoordelijk voor het verstrekken van arbeidsmiddelen? Toezichthouder",
-    "back": "Het uitzendbureau",
+    "chapter": "a1",
+    "front": "Uitleg en PBM\\'s krijgen van de werkgever Zelf bepalen welke veiligheidsregels worden gevolgd",
+    "back": "Zelf bepalen welke veiligheidsregels worden gevolgd",
     "options": [
-      "Het uitzendbureau",
+      "Zelf bepalen welke veiligheidsregels worden gevolgd",
+      "Risico\\'s negeren",
+      "Mogen stoppen met werken als het werk onveilig is",
+      "Uitleg en PBM\\'s krijgen van de werkgever",
+      "Zelf bepalen welke veiligheidsregels worden gevolgd"
+    ],
+    "explanation": "Je hebt het recht om uitleg en PBM\\'s te krijgen van je werkgever en je mag stoppen met werk als je zelf vindt dat het onveilig is."
+  },
+  {
+    "chapter": "a1",
+    "front": "\\\\n Inhoud van de afspraken",
+    "back": "\\\\n",
+    "options": [
+      "\\\\n",
+      "Oefening",
+      "Oefening",
       "Werkgever",
-      "Het inlenende bedrijf",
-      "Werknemer",
-      "De werkgever is verantwoordelijk voor het verstrekken van arbeidsmiddelen."
+      "Sleep nu de juiste verplichting naar de werkgever of werknemer."
     ],
-    "explanation": "De werkgever, in dit geval het inlenende bedrijf, is verantwoordelijk voor het verstrekken van arbeidsmiddelen."
+    "explanation": "Werknemer"
   },
   {
-    "chapter": "a1.plusport.com.har",
-    "front": "Een medewerker weigert om een verplichte veiligheidsinstructie bij te wonen. Hij zegt: \"Ik weet het allemaal al.\" Welke plicht verzaakt de medewerker nu?",
-    "back": "De plicht om te zorgen voor zijn eigen veiligheid",
+    "chapter": "a1",
+    "front": "Zorgdragen voor de eigen veiligheid en die van andere betrokken personen; gevaren melden Zorgdragen voor de eigen veiligheid en die van andere betrokken personen; gevaren melden",
+    "back": "Ernstige ongevallen melden bij de Inspectiedienst SZW",
     "options": [
-      "De plicht om te zorgen voor zijn eigen veiligheid",
-      "De plicht om gevaar te melden",
-      "De plicht om opleiding te volgen"
+      "Ernstige ongevallen melden bij de Inspectiedienst SZW",
+      "Ernstige ongevallen melden bij de Inspectiedienst SZW",
+      "Ernstige ongevallen melden bij de Nederlandse Arbeidsinspectie",
+      "Gebruik maken van verstrekte PBM\\'s",
+      "Gebruik maken van verstrekte PBM\\'s"
     ],
-    "explanation": "De medewerker heeft de plicht om zijn deskundigheid ontwikkelen en opleiding te volgen die zijn werkgever beschikbaar stelt."
+    "explanation": "Gebruik maken van verstrekte PBM\\'s"
   },
   {
-    "chapter": "a1.plusport.com.har",
-    "front": "Wat is een verplichting van de werknemer? Uitvoeren van een schriftelijke risicoanalyse",
-    "back": "Zorgdragen voor de eigen veiligheid en gezondheid en die van andere betrokken personen",
+    "chapter": "a1",
+    "front": "Inhoud van de afspraken \\\\n",
+    "back": "Oefening",
     "options": [
-      "Zorgdragen voor de eigen veiligheid en gezondheid en die van andere betrokken personen",
-      "Risico's onderkennen"
+      "Oefening",
+      "Oefening",
+      "Interne deskundige",
+      "De interne deskundige en arbodienst/bedrijfsarts hebben verschillende taken en verantwoordelijkheden.\\\\r",
+      "Sleep de taken en verantwoordelijkheden naar het juiste vlak."
     ],
-    "explanation": "Het zorgdragen voor de eigen veiligheid en gezondheid en die van andere betrokken personen is een verplichting van de werknemer."
+    "explanation": "Arbodienst/bedrijfsarts"
   },
   {
-    "chapter": "a1.plusport.com.har",
-    "front": "De werkgever is verplicht periodiek werknemers in de gelegenheid te stellen om een onderzoek te ondergaan ter voorkoming en beperking van risico\"s voor de gezondheid. Wat is het doel hiervan? Het vastleggen van persoonlijke medische gegevens voor de preventiedienst",
-    "back": "Het voorkomen van risico's voor de gezondheid van de werknemer",
+    "chapter": "a1",
+    "front": "Functiegerichte \\\\n aanstellingskeuringen",
+    "back": "Functiegerichte \\\\n",
     "options": [
-      "Het voorkomen van risico's voor de gezondheid van de werknemer"
+      "Functiegerichte \\\\n",
+      "aanstellingskeuringen",
+      "Werkt mee aan het opstellen van \\\\n",
+      "Werkt mee aan het opstellen van \\\\n",
+      "Deze deskundigen zijn zowel werkgever als werknemer bij de uitvoering en toepassing \\\\n"
     ],
-    "explanation": "Naast risico's voorkomen willen we uiteraard ook de risico's beperken tijdens werkzaamheden."
+    "explanation": "van de V&G-wetgeving."
   },
   {
-    "chapter": "a1.plusport.com.har",
-    "front": "Wat is één taak van de leidinggevende tijdens de uitvoering van operationele werkzaamheden? Zorgdragen voor een goede organisatie van het arbeidsomstandigheden-beleid",
-    "back": "Vaststellen van het meerjarenplan ter verbetering van de arbeidsomstandigheden",
+    "chapter": "a1",
+    "front": "Voert een risicoanalyse uit Houdt toezicht op de naleving van de instructies",
+    "back": "Houdt toezicht op de naleving van de instructies",
     "options": [
-      "Vaststellen van het meerjarenplan ter verbetering van de arbeidsomstandigheden",
-      "Controle uitoefenen op arbeidsmiddelen",
-      "en PBM's"
+      "Houdt toezicht op de naleving van de instructies",
+      "Volgt opleiding, voorlichting en instructies",
+      "Volgt opleiding, voorlichting en instructies",
+      "Meldt incidenten",
+      "Meldt incidenten"
     ],
-    "explanation": "De operationeel leidinggevende moet controle uitoefenen op arbeidsmiddelen en PBM's."
+    "explanation": "Zowel de werkgever als werknemer moeten de veiligheid en gezondheid op het werk bevorderen."
   },
   {
-    "chapter": "a1.plusport.com.har",
-    "front": "Het bedrijf waar je werkt heeft een VCA-certificering. Wat betekent dat? Het bedrijf heeft een veiligheidsbeheers-systeem dat wordt getoetst op basis van het veiligheidsrapport.",
-    "back": "Het bedrijf heeft een systeem voor veiligheidsbeheersing volgens de vastgestelde regels.",
+    "chapter": "a1",
+    "front": "De maximumsnelheid op het terrein voor voertuigen De maximumsnelheid op het terrein voor voertuigen",
+    "back": "Gebruik van persoonlijke detectieapparatuur bij voorsteken van sleuven",
     "options": [
-      "Het bedrijf heeft een systeem voor veiligheidsbeheersing volgens de vastgestelde regels.",
-      "Het bedrijf registreert onveilige situaties en ongevallen en heeft geen gecertificeerd veiligheidsregister."
+      "Gebruik van persoonlijke detectieapparatuur bij voorsteken van sleuven",
+      "Verbod op het gebruik van mobiele telefoons in een fabriek",
+      "Het gebruik van onafhankelijke adembescherming",
+      "De maximumsnelheid op het terrein voor voertuigen",
+      "Het gebruik van onafhankelijke adembescherming.\\\\n"
     ],
-    "explanation": "Dat betekent dat het bedrijf een systeem heeft voor veiligheidsbeheersing volgens de vastgestelde regels."
+    "explanation": "Gebruik van persoonlijke detectieapparatuur bij voorsteken van sleuven."
   },
   {
-    "chapter": "a1.plusport.com.har",
-    "front": "Voor wie zijn algemene veiligheidsregels bedoeld? Iedereen die voor het",
-    "back": "eerst het terrein betreedt",
+    "chapter": "a1",
+    "front": "De veiligheidsmaatregelen\\\\n volgen die zijn afgesproken",
+    "back": "Voert een risicoanalyse uit",
     "options": [
-      "eerst het terrein betreedt",
-      "Personeel van aannemers en onderaannemers",
-      "Eigen personeel"
+      "Voert een risicoanalyse uit",
+      "Uitleg geven over wat er moet gebeuren",
+      "Volgt opleiding, voorlichting en instructies",
+      "Controleren of het werk volgens \\\\n",
+      "de afspraken wordt gedaan"
     ],
-    "explanation": "De algemene veiligheidsregels zijn bedoeld voor iedereen die schade zou kunnen oplopen van de bedrijfsactiviteiten."
+    "explanation": "Dit zijn de juiste kolommen voor de taken."
   },
   {
-    "chapter": "a_vragen_1",
-    "front": "Je bent leidinggevende en bent werkzaam bij een asbestverwijderingsbedrijf. Een van jouw medewerkers voert voorafgaand aan de werkzaamheden een LMRA uit. Hij vindt afwijkingen die niet in het werkplan staan. Wat doe je?",
-    "back": "Je neemt de nodige maatregelen voordat de medewerkers kunnen starten.",
+    "chapter": "a1",
+    "front": "Definitie Afspraken maken",
+    "back": "Doel afspraken maken",
     "options": [
-      "Er is een werkvergunning, dus er hoeft niets gewijzigd te worden.",
-      "Je neemt de nodige maatregelen voordat de medewerkers kunnen starten.",
-      "We vullen achteraf de afwijkingen in. We gaan door."
+      "Doel afspraken maken",
+      "Functies van goede afspraken maken",
+      "Inhoud van de afspraken",
+      "Oefening",
+      "Tijdens de nachtploeg raakt een medewerker ernstig gewond en moet voor behandeling worden opgenomen in het ziekenhuis.\\n"
     ],
-    "explanation": "Als er bij de LMRA (Laatste Minuut Risico Analyse) afwijkingen worden gevonden, moet het werk veilig worden gesteld voordat men mag beginnen."
+    "explanation": "Wat moet de werkgever volgens de wet als eerste doen?\\n"
   },
   {
-    "chapter": "a_vragen_1",
-    "front": "Welke wet, die valt onder de nationale veiligheids- en gezondheidswetgeving, regelt de arbeidsomstandigheden op de werkvloer?",
-    "back": "Arbeidsomstandighedenwet (Arbowet)",
+    "chapter": "a1",
+    "front": "Afspraken over veilige werkuitvoering Definitie",
+    "back": "Afspraken maken",
     "options": [
-      "Arbeidsomstandighedenwet (Arbowet)",
-      "Wet milieubeheer",
-      "Arbeidstijdenwet"
+      "Afspraken maken",
+      "Doel afspraken maken",
+      "Functies van goede afspraken maken",
+      "Inhoud van de afspraken",
+      "Oefening"
     ],
-    "explanation": "De Arbowet is de belangrijkste wet voor veiligheid en gezondheid op de werkvloer."
+    "explanation": "Kan de Nederlandse Arbeidsinspectie een procesverbaal opleggen aan zowel werkgevers als werknemers?\\n"
   },
   {
-    "chapter": "a_vragen_1",
-    "front": "Wanneer moet een taakrisico-analyse (TRA) worden bijgesteld?",
-    "back": "Als de werkcondities zijn veranderd.",
+    "chapter": "a1",
+    "front": "Uitleg en PBM's krijgen van de werkgever Zelf bepalen welke veiligheidsregels worden gevolgd",
+    "back": "Zelf bepalen welke veiligheidsregels worden gevolgd",
     "options": [
-      "Nadat de taak is afgerond.",
-      "Als de werkcondities zijn veranderd."
+      "Zelf bepalen welke veiligheidsregels worden gevolgd",
+      "Risico's negeren",
+      "Mogen stoppen met werken als het werk onveilig is",
+      "Uitleg en PBM's krijgen van de werkgever",
+      "Zelf bepalen welke veiligheidsregels worden gevolgd"
     ],
-    "explanation": "Een TRA is specifiek voor bepaalde werkomstandigheden. Als de situatie of het proces wijzigt, moet de TRA worden herzien."
+    "explanation": "Je hebt het recht om uitleg en PBM's te krijgen van je werkgever en je mag stoppen met werk als je zelf vindt dat het onveilig is."
   },
   {
-    "chapter": "a_vragen_1",
-    "front": "Waarom maak je een TRA?",
-    "back": "Om te zorgen dat medewerkers niet aan gevaarlijke werkzaamheden worden blootgesteld zonder de juiste maatregelen.",
+    "chapter": "a1",
+    "front": "Doel afspraken maken Functies van goede afspraken maken",
+    "back": "Inhoud van de afspraken",
     "options": [
-      "Om gevaarlijke werkzaamheden te voorkomen.",
-      "Om te zorgen dat medewerkers niet aan gevaarlijke werkzaamheden worden blootgesteld."
+      "Inhoud van de afspraken",
+      "Oefening",
+      "Oefening",
+      "Werkgever",
+      "Sleep nu de juiste verplichting naar de werkgever of werknemer."
     ],
-    "explanation": "Het doel van een TRA is de risico's van een specifieke, risicovolle taak te inventariseren en daarvoor passende beheersmaatregelen te nemen."
+    "explanation": "Werknemer"
   },
   {
-    "chapter": "a_vragen_1",
-    "front": "Wanneer voer je een TRA uit? (Selecteer alle juiste antwoorden)",
-    "back": "Bij het uitvoeren van taken en werkzaamheden, waar geen procedures voor zijn of bij aanvang van nieuwe projecten.",
+    "chapter": "a1",
+    "front": "Functies van goede afspraken maken Inhoud van de afspraken",
+    "back": "Oefening",
     "options": [
-      "Bij het uitvoeren van taken en werkzaamheden, waar geen procedures voor zijn of bij aanvang van nieuwe projecten.",
-      "Bij het aanschaffen van nieuwe machines of bij verbouwing of nieuwbouw.",
-      "Bij het opstellen en evalueren van procedures of, indien voorgeschreven, in het vergunningensysteem.",
-      "Bij medewerkers die een bovengemiddeld ziekteverzuim hebben en als de klantentevredenheid daalt."
+      "Oefening",
+      "Oefening",
+      "Interne deskundige",
+      "De interne deskundige en arbodienst/bedrijfsarts hebben verschillende taken en verantwoordelijkheden.\\r",
+      "Sleep de taken en verantwoordelijkheden naar het juiste vlak."
     ],
-    "explanation": "Een TRA wordt gemaakt voor specifieke, risicovolle uitvoerende werkzaamheden waar nog geen vaste procedures voor bestaan."
+    "explanation": "Arbodienst/bedrijfsarts"
   },
   {
-    "chapter": "a_vragen_1",
-    "front": "Op wie is de Arbowetgeving van toepassing? (Selecteer alle juiste antwoorden)",
-    "back": "De werkgever, De werknemer, De uitzendkracht",
+    "chapter": "a1",
+    "front": "Functiegerichte \\n aanstellingskeuringen",
+    "back": "Functiegerichte \\n",
     "options": [
-      "De bezoeker",
-      "De werkgever",
-      "De werknemer",
-      "De uitzendkracht"
+      "Functiegerichte \\n",
+      "aanstellingskeuringen",
+      "Werkt mee aan het opstellen van \\n",
+      "Werkt mee aan het opstellen van \\n",
+      "Deze deskundigen zijn zowel werkgever als werknemer bij de uitvoering en toepassing \\n"
     ],
-    "explanation": "De Arbowet geldt voor werkgevers, werknemers en ook voor ingehuurd personeel zoals uitzendkrachten. Bezoekers vallen onder de verantwoordelijkheid van het bedrijf, maar de Arbowet zelf richt zich primair op de werkgever-werknemer relatie in brede zin."
+    "explanation": "van de V&G-wetgeving."
   },
   {
-    "chapter": "a_vragen_1",
-    "front": "Welke acties kan de Inspectie SZW (Arbeidsinspectie) ondernemen bij een overtreding? (Selecteer alle juiste antwoorden)",
-    "back": "Opstellen van een boeterapport aan de werkgever naar aanleiding van een beboetbaar feit. Opstellen van een boeterapport aan de werknemer naar aanleiding van een beboetbaar feit.",
+    "chapter": "a1",
+    "front": "De veiligheidsmaatregelen\\n volgen die zijn afgesproken",
+    "back": "Voert een risicoanalyse uit",
     "options": [
-      "Opstellen van een boeterapport aan de werkgever naar aanleiding van een beboetbaar feit.",
-      "Opstellen van een boeterapport aan de werknemer naar aanleiding van een beboetbaar feit.",
-      "Opstellen van een boeterapport aan de omwonenden van de onderneming naar aanleiding van beboetbaar feit.",
-      "Geen van de antwoorden is goed."
+      "Voert een risicoanalyse uit",
+      "Uitleg geven over wat er moet gebeuren",
+      "Volgt opleiding, voorlichting en instructies",
+      "Controleren of het werk volgens \\n",
+      "de afspraken wordt gedaan"
     ],
-    "explanation": "De Inspectie SZW kan boetes opleggen aan zowel de werkgever (bij onvoldoende zorg voor veiligheid) als de werknemer (bijv. negeren van veiligheidsregels)."
-  },
-  {
-    "chapter": "a_vragen_1",
-    "front": "Wat staat er globaal in het V&G-jaarplan?",
-    "back": "Wat het bedrijf dat jaar gaat doen om de werkplek veilig te houden, zoals acties, controles, opleidingen en verbeteringen.",
-    "options": [
-      "De data en afspraken voor alle toolboxmeetings.",
-      "De risico-analyses van de gevaarlijke werkzaamheden.",
-      "Alle preventieve maatregelen die het bedrijf neemt op het gebied van veiligheid en gezondheid.",
-      "Wat het bedrijf dat jaar gaat doen om de werkplek veilig te houden, zoals acties, controles, opleidingen en verbeteringen."
-    ],
-    "explanation": "Het V&G-plan is een actieplan voor het komende jaar om de veiligheid en gezondheid (V&G) binnen het bedrijf te verbeteren."
-  },
-  {
-    "chapter": "a_vragen_1",
-    "front": "Wie is verantwoordelijk voor de specifieke voorlichting en instructie van de uitzendkracht op de werkplek?",
-    "back": "De operationeel leidinggevende van de inlenende onderneming.",
-    "options": [
-      "De operationeel leidinggevende van de inlenende onderneming.",
-      "De overheid.",
-      "De uitzendkracht zelf.",
-      "Het uitlenende uitzendbureau."
-    ],
-    "explanation": "De inlener is verantwoordelijk voor de veiligheid en de werkplekspecifieke instructies van de uitzendkracht."
-  },
-  {
-    "chapter": "a_vragen_1",
-    "front": "Welke omschrijving past het beste bij een toolboxmeeting?",
-    "back": "Een korte vergadering in een informele sfeer over veiligheid, gezondheid en milieu.",
-    "options": [
-      "Een werkplekinspectie (audit) met checklists waarbij de leidinggevende tekortkomingen noteert.",
-      "Een formeel werkoverleg over planning, uren en productiecijfers.",
-      "Een verplichte jaarlijkse veiligheidstraining met toets en certificaat.",
-      "Een korte vergadering in een informele sfeer over veiligheid, gezondheid en milieu."
-    ],
-    "explanation": "Een toolboxmeeting is een laagdrempelig en kort overlegmoment bedoeld om een specifiek veiligheidsonderwerp te bespreken."
+    "explanation": "Dit zijn de juiste kolommen voor de taken."
   },
   {
     "chapter": "a2",
-    "front": "Wat doe je als een collega onder invloed (van alcohol of drugs) is op de werkvloer?",
-    "back": "Meld dit direct bij je leidinggevende of directie.",
+    "front": "Gedrag en VGM-beleid Leidinggevende",
+    "back": "Gedragsregels [1]",
     "options": [
-      "De collega helpen bij zijn werkzaamheden",
-      "Niets, dat is zijn eigen verantwoordelijkheid",
-      "Meld dit direct bij je leidinggevende of directie"
+      "Gedragsregels [1]",
+      "Gedragsregels [2]",
+      "Gedrag",
+      "Oefening",
+      "Introductie"
     ],
-    "explanation": "Het is belangrijk voor de veiligheid om dit direct te melden bij je leidinggevende of directie."
+    "explanation": "Wat zou je doen als je collega tijdens of vlak voor het werk alcohol of drugs gebruikt?"
   },
   {
     "chapter": "a2",
-    "front": "Welke van de volgende acties is een juiste algemene gedragsregel om veilig te werken?",
-    "back": "Je geeft het goede voorbeeld en houdt je aan de gedragsregels.",
+    "front": "Gedragsregels [1] Gedragsregels [2]",
+    "back": "Gedrag",
     "options": [
-      "Je werkt aan tegenstrijdige opdrachten",
-      "Je geeft het goede voorbeeld en houdt je aan de gedragsregels",
-      "Je negeert de regels als de opdrachtgever daarom vraagt"
+      "Gedrag",
+      "Oefening",
+      "Introductie",
+      "Juist",
+      "Weet jij hoe je je gedrag moet toepassen ten opzichte van je team en collega\"s om veilig gedrag te stimuleren?"
     ],
-    "explanation": "Houd je aan de gedragsregels zodat iedereen veilig kan werken en geef het goede voorbeeld."
+    "explanation": "Kies de juiste algemene gedragsregels om veilig te werken."
   },
   {
     "chapter": "a2",
-    "front": "Welk voorbeeld past bij de actie 'Stimuleer veilig gedrag'?",
-    "back": "Een team krijgt taart omdat er 100 dagen ongevalvrij is gewerkt.",
+    "front": "Goed Juistem",
+    "back": "Juistem",
     "options": [
-      "Een team krijgt taart omdat er 100 dagen ongevalvrij is gewerkt.",
-      "Een medewerker krijgt een officiële waarschuwing omdat hij zijn veiligheidsbril niet draagt.",
-      "Medewerkers worden bestraft voor het maken van een melding."
+      "Juistem",
+      "Ik ben fout",
+      "Ik ben fout",
+      "Ik ben goed",
+      "Ik ben goed"
     ],
-    "explanation": "Het belonen van 100 dagen ongevalvrij werken stimuleert veilig gedrag. Een officiële waarschuwing is bedoeld om onveilig gedrag af te remmen."
+    "explanation": "Houd je aan de gedragsregels zodat iedereen veilig kan werken."
   },
   {
     "chapter": "a2",
-    "front": "Welke van de volgende situaties verhoogt de kans op onveilig gedrag?",
-    "back": "De werkopdracht is onvolledig.",
+    "front": "Leidinggevende Gedragsregels [1]",
+    "back": "Gedragsregels [2]",
     "options": [
-      "Er is onenigheid tussen de werkgever en de ondernemingsraad.",
-      "De werkopdracht is onvolledig.",
-      "Er zijn duidelijke afspraken gemaakt over de uitvoering van het werk."
+      "Gedragsregels [2]",
+      "Gedrag",
+      "Oefening",
+      "Introductie",
+      "Tijdens een toolboxmeeting leest de leidinggevende snel een lijstje werkzaamheden en veiligheidsregels voor. Daarna sluit hij het overleg zonder"
     ],
-    "explanation": "Als de werkopdracht onvolledig is, verhoogt dit de kans op onveilig gedrag."
+    "explanation": "vragen te stellen of reacties te vragen van de medewerkers. Welke belangrijke eigenschap van een toolboxmeeting ontbreekt hier?"
+  },
+  {
+    "chapter": "a2",
+    "front": "\\\\n Gedrag",
+    "back": "\\\\n",
+    "options": [
+      "\\\\n",
+      "Oefening",
+      "Introductie\\\\n",
+      "\\\\n",
+      "Wat zou je doen als je collega tijdens of vlak voor het werk alcohol of drugs gebruikt?\\\\n"
+    ],
+    "explanation": "\\\\n"
+  },
+  {
+    "chapter": "a2",
+    "front": "\\\\n Oefening",
+    "back": "Introductie\\\\n",
+    "options": [
+      "Introductie\\\\n",
+      "\\\\n",
+      "Oefening",
+      "Juist",
+      "Weet jij hoe je je gedrag moet toepassen ten opzichte van je team en collega\"s om veilig gedrag te stimuleren? \\\\n"
+    ],
+    "explanation": "Kies de juiste algemene gedragsregels om veilig te werken."
+  },
+  {
+    "chapter": "a2",
+    "front": "Je start met een opdracht waarvan je niet precies weet hoe het moet Ik ben goed",
+    "back": "Ik ben goed",
+    "options": [
+      "Ik ben goed",
+      "Je geeft het goede voorbeeld",
+      "Fout",
+      "Fout",
+      "Je werkt aan tegenstrijdige opdrachten"
+    ],
+    "explanation": "Houd je aan de gedragsregels zodat iedereen veilig kan werken."
+  },
+  {
+    "chapter": "a2",
+    "front": "Gedragsregels [2] \\\\n",
+    "back": "Gedrag",
+    "options": [
+      "Gedrag",
+      "\\\\n",
+      "Oefening",
+      "Introductie\\\\n",
+      "\\\\n"
+    ],
+    "explanation": "Oefening"
+  },
+  {
+    "chapter": "a2",
+    "front": "Gedragsregels [2] Gedrag",
+    "back": "Oefening",
+    "options": [
+      "Oefening",
+      "Introductie\\n",
+      "Oefening",
+      "Juist",
+      "Weet jij hoe je je gedrag moet toepassen ten opzichte van je team en collegaÃ¢ÂÂs om veilig gedrag te stimuleren? \\n"
+    ],
+    "explanation": "Kies de juiste algemene gedragsregels om veilig te werken."
+  },
+  {
+    "chapter": "a3",
+    "front": "Preventie Arbeidshygiënische strategie",
+    "back": "Aanpak",
+    "options": [
+      "Aanpak",
+      "Oefening",
+      "Voorbeelden van beheersmaatregelen",
+      "Onderdelen van het risicobeheerssysteem",
+      "Introductie"
+    ],
+    "explanation": "Wat bedoelen we met risico?"
+  },
+  {
+    "chapter": "a3",
+    "front": "Juist Een risico wordt bepaald door de kans én de ernst van het gevolg.",
+    "back": "Een situatie die altijd",
+    "options": [
+      "Een situatie die altijd",
+      "gevaarlijk is",
+      "Alleen de schade die een",
+      "ongeval kan veroorzaken",
+      "Alleen de kans dat er een"
+    ],
+    "explanation": "ongeval gebeurt"
+  },
+  {
+    "chapter": "a3",
+    "front": "Sleep de afbeelding naar de juiste categorie. Werken met",
+    "back": "gevaarlijke stoffen",
+    "options": [
+      "gevaarlijke stoffen",
+      "Werken op hoogte",
+      "Graafwerkzaamheden",
+      "Werken met gevaarlijk",
+      "gereedschap of"
+    ],
+    "explanation": "gevaarlijke machines"
+  },
+  {
+    "chapter": "a3",
+    "front": "Arbeidshygiënische strategie Aanpak",
+    "back": "Oefening",
+    "options": [
+      "Oefening",
+      "Voorbeelden van beheersmaatregelen",
+      "Onderdelen van het risicobeheerssysteem",
+      "Introductie",
+      "Je bent leidinggevende in een magazijn. Uit de RI&E blijkt dat er risico\"s zijn doordat medewerkers vaak zware dozen tillen."
+    ],
+    "explanation": "Wat is volgens het risicobeheerssysteem jouw eerste stap?"
+  },
+  {
+    "chapter": "a3",
+    "front": "\\\\n Onderdelen van het risicobeheerssysteem",
+    "back": "\\\\n",
+    "options": [
+      "\\\\n",
+      "Introductie",
+      "\\\\n",
+      "\\\\n",
+      "Wat bedoelen we met risico?\\\\n"
+    ],
+    "explanation": "\\\\n"
+  },
+  {
+    "chapter": "a3",
+    "front": "Alleen de kans dat er een ongeval gebeurt Juist",
+    "back": "Een risico wordt bepaald door de kans én de ernst van het gevolg.",
+    "options": [
+      "Een risico wordt bepaald door de kans én de ernst van het gevolg.",
+      "Een situatie die altijd gevaarlijk is",
+      "De kans dat er iets gebeurt, vermenigvuldigd met het gevolg",
+      "Alleen de schade die een ongeval kan veroorzaken",
+      "Alleen de kans dat er een ongeval gebeurt"
+    ],
+    "explanation": "Een risico wordt bepaald door de kans én de ernst van het gevolg.\\\\n"
+  },
+  {
+    "chapter": "a3",
+    "front": "\\\\n Sleep de afbeelding naar de juiste categorie.",
+    "back": "Werken met \\\\n",
+    "options": [
+      "Werken met \\\\n",
+      "gevaarlijke stoffen",
+      "Werken op hoogte",
+      "Graafwerkzaamheden",
+      "Werken met gevaarlijk gereedschap of \\\\n"
+    ],
+    "explanation": "gevaarlijke machines"
+  },
+  {
+    "chapter": "a3",
+    "front": "Het later in een toolboxmeeting bespreken Onmiddellijk met het werk stoppen",
+    "back": "Onmiddellijk met het werk stoppen",
+    "options": [
+      "Onmiddellijk met het werk stoppen",
+      "Je collega waarschuwen dat hij je in de gaten houdt",
+      "Melding maken bij je leidinggevende",
+      "Het later in een toolboxmeeting bespreken",
+      "Onmiddellijk met het werk stoppen"
+    ],
+    "explanation": "Je stopt onmiddellijk met werken en meldt het bij je leidinggevende."
+  },
+  {
+    "chapter": "a3",
+    "front": "Voorbeelden van beheersmaatregelen \\\\n",
+    "back": "Onderdelen van het risicobeheerssysteem",
+    "options": [
+      "Onderdelen van het risicobeheerssysteem",
+      "\\\\n",
+      "Introductie",
+      "\\\\n",
+      "\\\\n"
+    ],
+    "explanation": "Oefening"
+  },
+  {
+    "chapter": "a3",
+    "front": "Onderdelen van het risicobeheerssysteem \\\\n",
+    "back": "Introductie",
+    "options": [
+      "Introductie",
+      "\\\\n",
+      "\\\\n",
+      "Je bent leidinggevende in een magazijn. Uit de RI&E blijkt dat er risico\"s zijn doordat medewerkers vaak zware dozen tillen. \\\\n",
+      "Wat is volgens het risicobeheerssysteem jouw eerste stap?\\\\n"
+    ],
+    "explanation": "\\\\n"
+  },
+  {
+    "chapter": "a3",
+    "front": "Medewerkers direct vragen of ze voortaan beter opletten bij het tillen Medewerkers direct vragen of ze voortaan beter opletten bij het tillen",
+    "back": "Juist!",
+    "options": [
+      "Juist!",
+      "Eerst maak je een plan over hoe je het werk zo veilig mogelijk uit kan voeren, te beginnen met de bronaanpak.",
+      "Een plan maken: wie onderzoekt de tilhulpmiddelen en hoe wordt het werk anders verdeeld",
+      "Controleren of medewerkers de dozen op de juiste manier optillen",
+      "Extra posters ophangen over veilig tillen"
+    ],
+    "explanation": "Medewerkers direct vragen of ze voortaan beter opletten bij het tillen"
+  },
+  {
+    "chapter": "a3",
+    "front": "Preventie ArbeidshygiÃÂ«nische strategie",
+    "back": "Aanpak",
+    "options": [
+      "Aanpak",
+      "OeÃ®ÂÂening",
+      "Voorbeelden van beheersmaatregelen",
+      "Onderdelen van het risicobeheerssysteem",
+      "Introductie"
+    ],
+    "explanation": "Wat bedoelen we met risico?"
+  },
+  {
+    "chapter": "a3",
+    "front": "Juist Een risico wordt bepaald door de kans ÃÂ©n de ernst van het gevolg.",
+    "back": "Een situatie die altijd",
+    "options": [
+      "Een situatie die altijd",
+      "gevaarlijk is",
+      "Alleen de schade die een",
+      "ongeval kan veroorzaken",
+      "Alleen de kans dat er een"
+    ],
+    "explanation": "ongeval gebeurt"
+  },
+  {
+    "chapter": "a3",
+    "front": "ArbeidshygiÃÂ«nische strategie Aanpak",
+    "back": "OeÃ®ÂÂening",
+    "options": [
+      "OeÃ®ÂÂening",
+      "Voorbeelden van beheersmaatregelen",
+      "Onderdelen van het risicobeheerssysteem",
+      "Introductie",
+      "Je bent leidinggevende in een magazijn. Uit de RI&E blijkt dat er risicoÃ¢ÂÂs zijn doordat medewerkers vaak zware dozen tillen."
+    ],
+    "explanation": "Wat is volgens het risicobeheerssysteem jouw eerste stap?"
+  },
+  {
+    "chapter": "a3",
+    "front": "Bekijk vier voorbeelden van risicovolle werkzaamheden. \\n Sleep de afbeelding naar de juiste categorie.",
+    "back": "Werken met \\n",
+    "options": [
+      "Werken met \\n",
+      "gevaarlijke stoffen",
+      "Werken op hoogte",
+      "Graafwerkzaamheden",
+      "Werken met gevaarlijk gereedschap of \\n"
+    ],
+    "explanation": "gevaarlijke machines"
+  },
+  {
+    "chapter": "a3",
+    "front": "ArbeidshygiÃÂ«nische strategie Aanpak\\n",
+    "back": "Oefening",
+    "options": [
+      "Oefening",
+      "Voorbeelden van beheersmaatregelen",
+      "Onderdelen van het risicobeheerssysteem",
+      "Introductie",
+      "Je bent leidinggevende in een magazijn. Uit de RI&E blijkt dat er risicoÃ¢ÂÂs zijn doordat medewerkers vaak zware dozen tillen. \\n"
+    ],
+    "explanation": "Wat is volgens het risicobeheerssysteem jouw eerste stap?\\n"
   },
   {
     "chapter": "a5_vragen_2",
-    "front": "Wat is een belangrijke bevoegdheid van de Nederlandse Arbeidsinspectie?",
-    "back": "Werkzaamheden stilleggen indien er een ernstig gevaar aanwezig is voor personen EN opstellen van een proces-verbaal naar aanleiding van een strafbaar feit.",
+    "front": "Werken met laserstraling Werken met laserstraling",
+    "back": "Werken met een hogedrukreiniger",
     "options": [
-      "Toezicht houden op naleving van de Veiligheid- en gezondheidswetgeving EN onderzoek instellen naar aanleiding van een ongeval.",
-      "Werknemers vragen naar een geldige legitimatie EN eis stellen betreffende de wijze waarop de V&G wetgeving moet worden nageleefd.",
-      "Werkzaamheden stilleggen indien er een ernstig gevaar aanwezig is voor personen EN opstellen van een proces-verbaal naar aanleiding van een strafbaar feit."
+      "Werken met een hogedrukreiniger",
+      "Werken met een hogedrukreiniger",
+      "Het slopen van een stuk muur boven je hoofd",
+      "Het slopen van een stuk muur boven je hoofd",
+      "Werken in een stofflge omgeving"
     ],
-    "explanation": "De Arbeidsinspectie mag werkzaamheden stilleggen bij ernstig gevaar en een proces-verbaal opmaken."
+    "explanation": "Werken in een stofflge omgeving"
   },
   {
-    "chapter": "a5_vragen_2",
-    "front": "Een medewerker gebruikt een machine zonder de verplichte veiligheidsbril. De machine is in orde en de werkplek is opgeruimd. Hij raakt gewond aan zijn oog. Wat is de belangrijkste oorzaak?",
-    "back": "Onveilig handelen door de medewerker.",
+    "chapter": "b1",
+    "front": "Oefening [3] Oefening [4]",
+    "back": "Vraag [1]",
     "options": [
-      "Onveilig handelen door de medewerker.",
-      "Een onveilige situatie op de werkplek.",
-      "Er is onvoldoende toezicht gehouden door de Nederlandse Arbeidsinspectie."
+      "Vraag [1]",
+      "Vraag [2]",
+      "Markeringen",
+      "Markeringen",
+      "Oefening"
     ],
-    "explanation": "Omdat de machine in orde was en de werkplek opgeruimd, ligt de oorzaak bij het gedrag: het niet dragen van de verplichte PBM's."
+    "explanation": "Vanaf welke geluidssterkte lopen mensen gevaar?"
   },
   {
-    "chapter": "a5_vragen_2",
-    "front": "Wie is verantwoordelijk voor de specifieke voorlichting en instructie van de uitzendkracht?",
-    "back": "De operationeel leidinggevende van de inlenende onderneming.",
+    "chapter": "b1",
+    "front": "Oefening [2] Oefening [3]",
+    "back": "Oefening [4]",
     "options": [
-      "Het uitlenende uitzendbureau.",
-      "De uitzendkracht zelf.",
-      "De operationeel leidinggevende van de inlenende onderneming."
+      "Oefening [4]",
+      "Vraag [1]",
+      "Vraag [2]",
+      "Markeringen",
+      "Markeringen"
     ],
-    "explanation": "De inlener is verantwoordelijk voor de specifieke voorlichting en instructie over de werkplek en de taak."
+    "explanation": "Oefening"
   },
   {
-    "chapter": "a5_vragen_2",
-    "front": "Wat is de juiste volgorde van de arbeidshygiënische strategie (van eerst toe te passen naar laatst)?",
-    "back": "Bronaanpak → Collectieve maatregelen → Individuele/organisatorische maatregelen → PBM’s.",
+    "chapter": "b1",
+    "front": "Item 4 Item 3",
+    "back": "Item 3",
     "options": [
-      "Collectieve maatregelen → Individuele/organisatorische maatregelen → PBM’s → Bronaanpak.",
-      "Bronaanpak → Collectieve maatregelen → Individuele/organisatorische maatregelen → PBM’s.",
-      "Bronaanpak → Individuele/organisatorische maatregelen → Collectieve maatregelen → PBM’s."
+      "Item 3",
+      "Bevestig veiligstelling met tag",
+      "Item 2",
+      "Item 2",
+      "Item 1"
     ],
-    "explanation": "De arbeidshygiënische strategie werkt altijd van de bron naar de persoon: bron, collectief, individueel, PBM's."
+    "explanation": "Item 1"
   },
   {
-    "chapter": "a5_vragen_2",
-    "front": "Welk recht heeft een medewerker als het gaat om zijn gezondheid?",
-    "back": "Het recht op een periodiek preventief medisch onderzoek (PMO).",
+    "chapter": "b1",
+    "front": "Markeringen \\\\n",
+    "back": "\\\\n",
     "options": [
-      "Het recht op een medische keuring.",
-      "Het recht op een jaarlijkse griepprik.",
-      "Het recht op een periodiek preventief medisch onderzoek (PMO)."
+      "\\\\n",
+      "Markeringen",
+      "\\\\n",
+      "Oefening",
+      "Vanaf welke geluidssterkte lopen mensen gevaar?\\\\n"
     ],
-    "explanation": "Werknemers hebben wettelijk recht op een Periodiek Arbeidsgezondheidskundig Onderzoek (PAGO/PMO)."
+    "explanation": "\\\\n"
   },
   {
-    "chapter": "a5_vragen_2",
-    "front": "Je bent bezig met je werk en je wilt gebruik maken van de handcirkelzaag. De stekker is kapot. Wat doe je?",
-    "back": "Ik stop onmiddellijk en zorg ervoor dat anderen de zaag niet meer kunnen gebruiken. Vervolgens meld ik dit volgens de afgesproken procedure. Pas daarna neem ik een veilige zaag in gebruik.",
+    "chapter": "b1",
+    "front": "Vraag [2] Markeringen",
+    "back": "\\\\n",
     "options": [
-      "Ik stop onmiddellijk en zorg ervoor dat anderen de zaag niet meer kunnen gebruiken. Vervolgens meld ik dit volgens de afgesproken procedure. Pas daarna neem ik een veilige zaag in gebruik.",
-      "Ik denk dat ik zelf de stekker wel kan repareren met tape waardoor ik in ieder geval eerst mijn werk kan afmaken. Daarna ga ik naar mijn leidinggevende.",
-      "Ik leg de zaag terug en neem zonder het te melden een andere zaag."
+      "\\\\n",
+      "\\\\n",
+      "Markeringen",
+      "\\\\n",
+      "Oefening"
     ],
-    "explanation": "Gebruik nooit kapot gereedschap. Borg het zodat anderen het niet gebruiken en meld het."
+    "explanation": "Oefening"
   },
   {
-    "chapter": "a5_vragen_2",
-    "front": "Je bent aan het werk en ziet een uitzendkracht over het bouwterrein lopen zonder de verplichte helm. Wat doe je?",
-    "back": "Ik meld dit direct bij de leidinggevende en zorg dat de uitzendkracht zijn helm onmiddellijk opzet.",
+    "chapter": "b1",
+    "front": "Item 3 Bevestig veiligstelling met tag",
+    "back": "Item 2",
     "options": [
-      "Ik meld dit direct bij de leidinggevende en zorg dat de uitzendkracht zijn helm onmiddellijk opzet.",
-      "Ik zeg dat hij onmiddellijk de helm op moet zetten.",
-      "Ik bel de Nederlandse Arbeidsinspectie en meld dit incident.",
-      "Ik doe niets, hij moet het zelf maar weten."
+      "Item 2",
+      "Item 2",
+      "Plaats slot en borg",
+      "Item 1",
+      "Item 1"
     ],
-    "explanation": "Spreek personen direct aan op onveilig gedrag en zorg dat ze de regels naleven."
+    "explanation": "Schakel uit"
   },
   {
-    "chapter": "a5_vragen_2",
-    "front": "Je bent ingehuurd en je moet werk uitvoeren dat in jouw ogen gevaarlijk is. Wat doe je?",
-    "back": "Ik stop met werken en meld het bij mijn leidinggevende, zodat hij maatregelen kan nemen.",
+    "chapter": "b1",
+    "front": "\\\\n \\\\n",
+    "back": "Markeringen",
     "options": [
-      "Ik ga toch door, maar ik werk extra langzaam en voorzichtig.",
-      "Ik vraag een collega om mee te kijken; als hij het goed vindt, ga ik verder.",
-      "Ik bedenk zelf een tijdelijke oplossing zonder toestemming en maak de klus af.",
-      "Ik stop met werken en meld het bij mijn leidinggevende, zodat hij maatregelen kan nemen."
+      "Markeringen",
+      "\\\\n",
+      "Oefening",
+      "Oefening [1]",
+      "Je kunt verschillende veiligheids- en gezondheidssignaleringsborden op de werkplek tegenkomen.\\\\r"
     ],
-    "explanation": "Werknemers hebben het recht (en de plicht) om het werk te onderbreken bij ernstig gevaar."
+    "explanation": "\\\\n"
   },
   {
-    "chapter": "a5_vragen_2",
-    "front": "Wat is het hoofddoel van een toolboxmeeting?",
-    "back": "Het motiveren en voorlichten van medewerkers om onveilig gedrag te voorkomen.",
+    "chapter": "b1",
+    "front": "Item 2 Smalle doorgang",
+    "back": "Item 1",
     "options": [
-      "Zorgen dat er geen ongevallen gebeuren.",
-      "Het motiveren en voorlichten van medewerkers om onveilig gedrag te voorkomen.",
-      "Alle medewerkers voor een klus bij elkaar brengen om de taken door te spreken."
+      "Item 1",
+      "Item 1",
+      "Er is gevaar",
+      "De markeringen geven aan dat er gevaar of risico aanwezig is.\\\\n",
+      "\\\\n"
     ],
-    "explanation": "Een toolboxmeeting is bedoeld om de veiligheidsbewustwording en kennis over specifieke risico's te vergroten."
+    "explanation": "Let op dat lint geen afscherming is."
+  },
+  {
+    "chapter": "b1",
+    "front": "Oefening [4] Vraag [1]",
+    "back": "Vraag [2]",
+    "options": [
+      "Vraag [2]",
+      "Markeringen",
+      "Markeringen",
+      "Oefening",
+      "Oefening [1]"
+    ],
+    "explanation": "Je kunt verschillende veiligheids- en gezondheidssignaleringsborden op de werkplek tegenkomen.\\r"
+  },
+  {
+    "chapter": "b1",
+    "front": "Item 2 Item 2",
+    "back": "Smalle doorgang",
+    "options": [
+      "Smalle doorgang",
+      "Item 1",
+      "Item 1",
+      "Er is gevaar",
+      "De markeringen geven aan dat er gevaar of risico aanwezig is.\\n"
+    ],
+    "explanation": "Let op dat lint geen afscherming is."
+  },
+  {
+    "chapter": "b2",
+    "front": "Oefening Oefening",
+    "back": "Oog- en gelaatsbescherming",
+    "options": [
+      "Oog- en gelaatsbescherming",
+      "Oog- en gelaatsbescherming [1]",
+      "Oog- en gelaatsbescherming [2]",
+      "Oefening",
+      "Introductie"
+    ],
+    "explanation": "Leerdoelen algemeen"
+  },
+  {
+    "chapter": "b2",
+    "front": "Item 3 Item 3",
+    "back": "Lasbril",
+    "options": [
+      "Lasbril",
+      "Item 2",
+      "Item 2",
+      "Ruimzichtbril",
+      "Item 1"
+    ],
+    "explanation": "Item 1"
+  },
+  {
+    "chapter": "b2",
+    "front": "Oefening Oog- en gelaatsbescherming",
+    "back": "Oog- en gelaatsbescherming [1]",
+    "options": [
+      "Oog- en gelaatsbescherming [1]",
+      "Oog- en gelaatsbescherming [2]",
+      "Oefening",
+      "Introductie",
+      "Leerdoelen algemeen"
+    ],
+    "explanation": "Je moet werken met gevaarlijke stoffen. Welk soort schoeisel trek je aan?"
+  },
+  {
+    "chapter": "b2",
+    "front": "Oog- en gelaatsbescherming [2] \\\\n",
+    "back": "Oefening",
+    "options": [
+      "Oefening",
+      "Introductie\\\\n",
+      "Inleiding\\\\n",
+      "Leerdoelen algemeen",
+      "\\\\n"
+    ],
+    "explanation": "Oefening"
+  },
+  {
+    "chapter": "b2",
+    "front": "Item 3 Lasbril",
+    "back": "Item 2",
+    "options": [
+      "Item 2",
+      "Item 2",
+      "Ruimzichtbril",
+      "Item 1",
+      "Item 1"
+    ],
+    "explanation": "Veiligheidsbril"
+  },
+  {
+    "chapter": "b2",
+    "front": "Oorproppen Item 2",
+    "back": "Item 2",
+    "options": [
+      "Item 2",
+      "Oorkappen",
+      "Item 1",
+      "Item 1",
+      "Otoplastieken"
+    ],
+    "explanation": "Zorg altijd voor de juiste gehoorbescherming."
+  },
+  {
+    "chapter": "b2",
+    "front": "Juist! Je hebt de dB(A)\\'s goed geplaatst.",
+    "back": "risicovolle",
+    "options": [
+      "risicovolle",
+      "risicovolle",
+      "85 dB(A)",
+      "Laatste Minuut Risico Analyse",
+      "Laatste Minuut Risico Analyse"
+    ],
+    "explanation": "80 dB(A)"
+  },
+  {
+    "chapter": "b2",
+    "front": "Item 3 Wegwerpkleding",
+    "back": "Item 2",
+    "options": [
+      "Item 2",
+      "Item 2",
+      "Signaalkleding",
+      "Item 1",
+      "Item 1"
+    ],
+    "explanation": "Overall en beschermende kleding"
+  },
+  {
+    "chapter": "b2",
+    "front": "Oog- en gelaatsbescherming Oog- en gelaatsbescherming [1]",
+    "back": "Oog- en gelaatsbescherming [2]",
+    "options": [
+      "Oog- en gelaatsbescherming [2]",
+      "Oefening",
+      "Introductie\\n",
+      "Inleiding\\n",
+      "Leerdoelen algemeen"
+    ],
+    "explanation": "Oefening"
+  },
+  {
+    "chapter": "b2",
+    "front": "Juist! Je hebt de dB(A)'s goed geplaatst.",
+    "back": "risicovolle",
+    "options": [
+      "risicovolle",
+      "risicovolle",
+      "85 dB(A)",
+      "Laatste Minuut Risico Analyse",
+      "Laatste Minuut Risico Analyse"
+    ],
+    "explanation": "80 dB(A)"
+  },
+  {
+    "chapter": "b3",
+    "front": "Specifleke veiligheidsmaatregelen vaste machines Specifleke veiligheidsmaatregelen aangedreven",
+    "back": "handgereedschap",
+    "options": [
+      "handgereedschap",
+      "Oefening",
+      "Introductie",
+      "Leerdoelen algemeen",
+      "Je wilt gaan boren met een kolomboormachine. Na het wisselen van toerental staat de beschermkap nog open."
+    ],
+    "explanation": "Wat is de juiste eerste stap voordat je gaat boren?"
+  },
+  {
+    "chapter": "b3",
+    "front": "Algemene eisen en veiligheidsmaatregelen Specifleke veiligheidsmaatregelen vaste machines",
+    "back": "Specifleke veiligheidsmaatregelen aangedreven",
+    "options": [
+      "Specifleke veiligheidsmaatregelen aangedreven",
+      "handgereedschap",
+      "Oefening",
+      "Introductie",
+      "Leerdoelen algemeen"
+    ],
+    "explanation": "Welke veiligheidsmaatregel geldt voor alle soorten aangedreven handgereedschap?"
+  },
+  {
+    "chapter": "b3",
+    "front": "Werkwijze Algemene eisen en veiligheidsmaatregelen",
+    "back": "Specifleke veiligheidsmaatregelen vaste machines",
+    "options": [
+      "Specifleke veiligheidsmaatregelen vaste machines",
+      "Specifleke veiligheidsmaatregelen aangedreven",
+      "handgereedschap",
+      "Oefening",
+      "Introductie"
+    ],
+    "explanation": "Leerdoelen algemeen"
+  },
+  {
+    "chapter": "b3",
+    "front": "Leerdoelen algemeen Sleep de omschrijvingen naar de juiste afbeelding.",
+    "back": "Handtakel",
+    "options": [
+      "Handtakel",
+      "Handtakel",
+      "Palletwagen",
+      "Palletwagen",
+      "Vorkheftruck"
+    ],
+    "explanation": "Vorkheftruck"
+  },
+  {
+    "chapter": "b3",
+    "front": "Introductie \\\\n",
+    "back": "\\\\n",
+    "options": [
+      "\\\\n",
+      "Leerdoelen algemeen",
+      "\\\\n",
+      "Je wilt gaan boren met een kolomboormachine. Na het wisselen van toerental staat de beschermkap nog open. \\\\n",
+      "Wat is de juiste eerste stap voordat je gaat boren? \\\\n"
+    ],
+    "explanation": "\\\\n"
+  },
+  {
+    "chapter": "b3",
+    "front": "Oefening Introductie",
+    "back": "\\\\n",
+    "options": [
+      "\\\\n",
+      "\\\\n",
+      "Leerdoelen algemeen",
+      "\\\\n",
+      "Welke veiligheidsmaatregel geldt voor alle soorten aangedreven handgereedschap?\\\\n"
+    ],
+    "explanation": "\\\\n"
+  },
+  {
+    "chapter": "b3",
+    "front": "Vraag\\\\n Oefening",
+    "back": "Introductie",
+    "options": [
+      "Introductie",
+      "\\\\n",
+      "\\\\n",
+      "Leerdoelen algemeen",
+      "\\\\n"
+    ],
+    "explanation": "Oefening"
+  },
+  {
+    "chapter": "b3",
+    "front": "Sleep de omschrijvingen naar de juiste afbeelding. \\\\n",
+    "back": "Handtakel",
+    "options": [
+      "Handtakel",
+      "Handtakel",
+      "Palletwagen",
+      "Palletwagen",
+      "Vorkheftruck"
+    ],
+    "explanation": "Vorkheftruck"
+  },
+  {
+    "chapter": "b3",
+    "front": "Handtakel",
+    "back": "Vorkheftruck",
+    "options": [
+      "Vorkheftruck"
+    ],
+    "explanation": "Palletwagen"
+  },
+  {
+    "chapter": "b3",
+    "front": "Specifieke veiligheidsmaatregelen vaste machines Specifieke veiligheidsmaatregelen aangedreven handgereedschap",
+    "back": "Vraag\\n",
+    "options": [
+      "Vraag\\n",
+      "Oefening",
+      "Introductie",
+      "Leerdoelen algemeen",
+      "Je wilt gaan boren met een kolomboormachine. Na het wisselen van toerental staat de beschermkap nog open. \\n"
+    ],
+    "explanation": "Wat is de juiste eerste stap voordat je gaat boren? \\n"
+  },
+  {
+    "chapter": "b3",
+    "front": "Algemene eisen en veiligheidsmaatregelen Specifieke veiligheidsmaatregelen vaste machines",
+    "back": "Specifieke veiligheidsmaatregelen aangedreven handgereedschap",
+    "options": [
+      "Specifieke veiligheidsmaatregelen aangedreven handgereedschap",
+      "Vraag\\n",
+      "Oefening",
+      "Introductie",
+      "Leerdoelen algemeen"
+    ],
+    "explanation": "Welke veiligheidsmaatregel geldt voor alle soorten aangedreven handgereedschap?\\n"
+  },
+  {
+    "chapter": "b3",
+    "front": "Oefening Sleep de omschrijvingen naar de juiste afbeelding.",
+    "back": "Handtakel",
+    "options": [
+      "Handtakel",
+      "Handtakel",
+      "Palletwagen",
+      "Palletwagen",
+      "Vorkheftruck"
+    ],
+    "explanation": "Vorkheftruck"
   }
 ]
