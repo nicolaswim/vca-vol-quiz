@@ -24,7 +24,7 @@ async function main() {
   // Hardcoded nice titles
   const metaInfo = {
     'a1': { title: 'A1: Module 1: Regelgeving en veiligheidsregels', description: 'Wetgeving en Arbeidsinspectie' },
-    'a2': { title: 'Gevaren, risico\'s en preventie', description: 'Gevaren en risicobeheersing' },
+    'a2': { title: 'A2: Module 2: Veilig werken, overleg en inspecties', description: 'Gevaren en risicobeheersing' },
     'a3': { title: 'A3: Module 3: Preventie', description: 'Wat te doen bij nood' },
     'a_vragen_1': { title: 'A4: Oefentoets deel A: Kennisvragen', description: 'Kennisvragen A1' },
     'a5_vragen_2': { title: 'A5: Oefentoets deel A: Toepassingsvragen', description: 'Kennisvragen A5' },
