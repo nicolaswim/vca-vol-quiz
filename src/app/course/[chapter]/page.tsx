@@ -1,15 +1,23 @@
 import Link from 'next/link';
 import { BookOpen, HelpCircle, ArrowLeft } from 'lucide-react';
+import { PrismaClient } from '@prisma/client';
+
+const prisma = new PrismaClient();
 
 export default async function ChapterHub({ params }: { params: Promise<{ chapter: string }> }) {
   const resolvedParams = await params;
   
-  // Format the title beautifully
   let displayTitle = resolvedParams.chapter;
-  if (displayTitle === 'a1') displayTitle = 'Hoofdstuk 1: Arbowetgeving';
-  if (displayTitle === 'a2') displayTitle = 'Hoofdstuk 2: Gevaren, risico\'s en preventie';
-  if (displayTitle === 'a3') displayTitle = 'Hoofdstuk 3: Ongevallen en Noodsituaties';
-  if (displayTitle === 'a_vragen_1') displayTitle = 'Oefentoets A1';
+  try {
+      const deck = await prisma.deck.findUnique({
+          where: { id: resolvedParams.chapter }
+      });
+      if (deck) {
+          displayTitle = deck.title;
+      }
+  } catch(e) {
+      console.error(e);
+  }
 
   return (
     <div className="min-h-screen bg-slate-50 flex flex-col items-center py-10 px-4">
@@ -18,7 +26,7 @@ export default async function ChapterHub({ params }: { params: Promise<{ chapter
           <ArrowLeft size={16} className="mr-1" /> Terug naar overzicht
         </Link>
         
-        <h1 className="text-3xl font-bold text-slate-800 mb-2 capitalize">{displayTitle}</h1>
+        <h1 className="text-3xl font-bold text-slate-800 mb-2">{displayTitle}</h1>
         <p className="text-slate-500 mb-8">Kies of je de theorie wilt bestuderen of direct de vragen wilt oefenen.</p>
         
         <div className="space-y-4">
@@ -38,7 +46,7 @@ export default async function ChapterHub({ params }: { params: Promise<{ chapter
             </div>
             <div>
               <h2 className="font-bold text-slate-800 text-xl mb-1">Vragen Oefenen</h2>
-              <p className="text-sm text-slate-500">Oefen met flashcards voor dit hoofdstuk</p>
+              <p className="text-sm text-slate-500">Oefen met flashcards voor dit onderdeel</p>
             </div>
           </Link>
         </div>
