@@ -9,32 +9,45 @@ const __dirname = path.dirname(__filename)
 const prisma = new PrismaClient()
 
 async function main() {
-  const rawDataPath = path.join(__dirname, 'final_flashcards.json')
-  const rawData = JSON.parse(fs.readFileSync(rawDataPath, 'utf8'))
+  const flashcardsPath = path.join(__dirname, 'final_flashcards.json')
+  const theoryPath = path.join(__dirname, '../src/data/theory.json')
+  
+  const flashcards = JSON.parse(fs.readFileSync(flashcardsPath, 'utf8'))
+  const theory = JSON.parse(fs.readFileSync(theoryPath, 'utf8'))
   
   await prisma.card.deleteMany({})
   await prisma.deck.deleteMany({})
 
-  const chapters = {}
-  for (const q of rawData) {
-    if (!chapters[q.chapter]) {
-      chapters[q.chapter] = []
-    }
-    chapters[q.chapter].push(q)
-  }
+  // Find all unique module_ids/chapters
+  const allIds = new Set();
   
-  // Hardcoded decks that have theory but maybe no flashcards
-  const allDecks = {
+  // Hardcoded nice titles
+  const metaInfo = {
     'a1': { title: 'Arbowetgeving', description: 'Wetgeving en Arbeidsinspectie' },
     'a2': { title: 'Gevaren, risico\'s en preventie', description: 'Gevaren en risicobeheersing' },
     'a3': { title: 'Ongevallen en Noodsituaties', description: 'Wat te doen bij nood' },
-    'a_vragen_1': { title: 'Oefentoets A1', description: 'Kennisvragen A1' }
+    'a_vragen_1': { title: 'Oefentoets A1', description: 'Kennisvragen A1' },
+    'a5_vragen_2': { title: 'Oefentoets A5', description: 'Kennisvragen A5' },
+    'b1': { title: 'B1: Veiligheidssignalisatie', description: 'Borden en Markeringen' },
+    'b2': { title: 'B2: Werkplekeisen', description: 'Veilige werkplek' },
+    'b3': { title: 'B3: Persoonlijke Bescherming', description: 'PBMs' }
   }
+
+  theory.forEach(t => {
+      if (t.module_id) allIds.add(t.module_id);
+  });
+  flashcards.forEach(f => {
+      let id = f.chapter;
+      if (id.includes('a1')) id = 'a1';
+      allIds.add(id);
+  });
   
-  for (const [deckId, meta] of Object.entries(allDecks)) {
+  // Create all decks
+  for (const deckId of allIds) {
+    const meta = metaInfo[deckId] || { title: `Module ${deckId}`, description: `Theorie en vragen voor ${deckId}` }
     const deck = await prisma.deck.create({
       data: {
-        id: deckId, // Force ID to match module_id!
+        id: deckId,
         title: meta.title,
         description: meta.description
       }
@@ -42,34 +55,24 @@ async function main() {
     console.log(`Created Deck: ${deck.title} (ID: ${deckId})`)
   }
 
-  // Now seed questions
-  for (const [chapterFile, questions] of Object.entries(chapters)) {
-    let targetDeckId = chapterFile;
-    if (chapterFile.includes("a1")) targetDeckId = "a1";
-    if (chapterFile.includes("a2")) targetDeckId = "a2";
-    if (chapterFile.includes("a3")) targetDeckId = "a3";
-    
-    // Check if deck exists, otherwise create it dynamically
-    let deck = await prisma.deck.findUnique({ where: { id: targetDeckId } })
-    if (!deck) {
-        deck = await prisma.deck.create({
-          data: {
-            id: targetDeckId,
-            title: targetDeckId,
-            description: `Questions for ${targetDeckId}`
-          }
-        })
-    }
-    
+  // Seed flashcards
+  const chapters = {}
+  for (const q of flashcards) {
+    let id = q.chapter;
+    if (id.includes('a1')) id = 'a1';
+    if (!chapters[id]) chapters[id] = []
+    chapters[id].push(q)
+  }
+  
+  for (const [deckId, questions] of Object.entries(chapters)) {
     for (const q of questions) {
         let options = q.options;
         if (Array.isArray(options)) {
             options = JSON.stringify(options);
         }
-        
         await prisma.card.create({
             data: {
-                deckId: deck.id,
+                deckId: deckId,
                 front: q.front,
                 back: q.back,
                 options: options,
@@ -78,7 +81,7 @@ async function main() {
             }
         })
     }
-    console.log(`  -> Added ${questions.length} cards to ${deck.title}`)
+    console.log(`  -> Added ${questions.length} cards to ${deckId}`)
   }
 }
 
