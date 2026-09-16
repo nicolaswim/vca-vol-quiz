@@ -416,158 +416,6 @@
     "explanation": "Werken in een stofflge omgeving"
   },
   {
-    "chapter": "b3",
-    "front": "Specifleke veiligheidsmaatregelen vaste machines Specifleke veiligheidsmaatregelen aangedreven",
-    "back": "handgereedschap",
-    "options": [
-      "handgereedschap",
-      "Oefening",
-      "Introductie",
-      "Leerdoelen algemeen",
-      "Je wilt gaan boren met een kolomboormachine. Na het wisselen van toerental staat de beschermkap nog open."
-    ],
-    "explanation": "Wat is de juiste eerste stap voordat je gaat boren?"
-  },
-  {
-    "chapter": "b3",
-    "front": "Algemene eisen en veiligheidsmaatregelen Specifleke veiligheidsmaatregelen vaste machines",
-    "back": "Specifleke veiligheidsmaatregelen aangedreven",
-    "options": [
-      "Specifleke veiligheidsmaatregelen aangedreven",
-      "handgereedschap",
-      "Oefening",
-      "Introductie",
-      "Leerdoelen algemeen"
-    ],
-    "explanation": "Welke veiligheidsmaatregel geldt voor alle soorten aangedreven handgereedschap?"
-  },
-  {
-    "chapter": "b3",
-    "front": "Werkwijze Algemene eisen en veiligheidsmaatregelen",
-    "back": "Specifleke veiligheidsmaatregelen vaste machines",
-    "options": [
-      "Specifleke veiligheidsmaatregelen vaste machines",
-      "Specifleke veiligheidsmaatregelen aangedreven",
-      "handgereedschap",
-      "Oefening",
-      "Introductie"
-    ],
-    "explanation": "Leerdoelen algemeen"
-  },
-  {
-    "chapter": "b3",
-    "front": "Leerdoelen algemeen Sleep de omschrijvingen naar de juiste afbeelding.",
-    "back": "Handtakel",
-    "options": [
-      "Handtakel",
-      "Handtakel",
-      "Palletwagen",
-      "Palletwagen",
-      "Vorkheftruck"
-    ],
-    "explanation": "Vorkheftruck"
-  },
-  {
-    "chapter": "b3",
-    "front": "Introductie \\\\n",
-    "back": "\\\\n",
-    "options": [
-      "\\\\n",
-      "Leerdoelen algemeen",
-      "\\\\n",
-      "Je wilt gaan boren met een kolomboormachine. Na het wisselen van toerental staat de beschermkap nog open. \\\\n",
-      "Wat is de juiste eerste stap voordat je gaat boren? \\\\n"
-    ],
-    "explanation": "\\\\n"
-  },
-  {
-    "chapter": "b3",
-    "front": "Oefening Introductie",
-    "back": "\\\\n",
-    "options": [
-      "\\\\n",
-      "\\\\n",
-      "Leerdoelen algemeen",
-      "\\\\n",
-      "Welke veiligheidsmaatregel geldt voor alle soorten aangedreven handgereedschap?\\\\n"
-    ],
-    "explanation": "\\\\n"
-  },
-  {
-    "chapter": "b3",
-    "front": "Vraag\\\\n Oefening",
-    "back": "Introductie",
-    "options": [
-      "Introductie",
-      "\\\\n",
-      "\\\\n",
-      "Leerdoelen algemeen",
-      "\\\\n"
-    ],
-    "explanation": "Oefening"
-  },
-  {
-    "chapter": "b3",
-    "front": "Sleep de omschrijvingen naar de juiste afbeelding. \\\\n",
-    "back": "Handtakel",
-    "options": [
-      "Handtakel",
-      "Handtakel",
-      "Palletwagen",
-      "Palletwagen",
-      "Vorkheftruck"
-    ],
-    "explanation": "Vorkheftruck"
-  },
-  {
-    "chapter": "b3",
-    "front": "Handtakel",
-    "back": "Vorkheftruck",
-    "options": [
-      "Vorkheftruck"
-    ],
-    "explanation": "Palletwagen"
-  },
-  {
-    "chapter": "b3",
-    "front": "Specifieke veiligheidsmaatregelen vaste machines Specifieke veiligheidsmaatregelen aangedreven handgereedschap",
-    "back": "Vraag\\n",
-    "options": [
-      "Vraag\\n",
-      "Oefening",
-      "Introductie",
-      "Leerdoelen algemeen",
-      "Je wilt gaan boren met een kolomboormachine. Na het wisselen van toerental staat de beschermkap nog open. \\n"
-    ],
-    "explanation": "Wat is de juiste eerste stap voordat je gaat boren? \\n"
-  },
-  {
-    "chapter": "b3",
-    "front": "Algemene eisen en veiligheidsmaatregelen Specifieke veiligheidsmaatregelen vaste machines",
-    "back": "Specifieke veiligheidsmaatregelen aangedreven handgereedschap",
-    "options": [
-      "Specifieke veiligheidsmaatregelen aangedreven handgereedschap",
-      "Vraag\\n",
-      "Oefening",
-      "Introductie",
-      "Leerdoelen algemeen"
-    ],
-    "explanation": "Welke veiligheidsmaatregel geldt voor alle soorten aangedreven handgereedschap?\\n"
-  },
-  {
-    "chapter": "b3",
-    "front": "Oefening Sleep de omschrijvingen naar de juiste afbeelding.",
-    "back": "Handtakel",
-    "options": [
-      "Handtakel",
-      "Handtakel",
-      "Palletwagen",
-      "Palletwagen",
-      "Vorkheftruck"
-    ],
-    "explanation": "Vorkheftruck"
-  },
-  {
     "chapter": "a3",
     "front": "Wat bedoelen we met risico?",
     "options": [
@@ -970,5 +818,82 @@
     ],
     "back": "Zodra de vervaldatum is verstreken, je geur- of smaakveranderingen opmerkt, of de ademweerstand toeneemt.",
     "explanation": "Een verzadigd filter werkt niet meer. Bij stofmaskers voel je dat aan de ademweerstand. Bij gasfilters kun je plotseling een geur of smaak waarnemen, dat betekent dat je direct moet wisselen!"
+  },
+  {
+    "chapter": "b3",
+    "front": "Je wilt gaan boren met een vaste kolomboormachine. Na het instellen van de machine staat de beschermkap nog open. Wat is de juiste eerste stap?",
+    "options": [
+      "De machine direct uitschakelen, de beschermkap veilig sluiten, en dan pas weer starten om te boren.",
+      "Extra beschermende handschoenen en een veiligheidsbril aantrekken en doorgaan met open kap.",
+      "De machine kort proefdraaien met de kap open om te controleren of de boor niet slingert."
+    ],
+    "back": "De machine direct uitschakelen, de beschermkap veilig sluiten, en dan pas weer starten om te boren.",
+    "explanation": "Bewegende delen van machines (zoals de boorkop) moeten altijd afgeschermd zijn vóórdat en tijdens dat de machine draait. Verwijder of open een beschermkap nooit bij een draaiende machine."
+  },
+  {
+    "chapter": "b3",
+    "front": "Bij een vaste zaagmachine gaat iets mis en de bediener wil de noodstop indrukken. De noodstop is echter geblokkeerd achter een stapel materiaal, waardoor de bediener te laat is en een collega gewond raakt. Wat is de hoofdregel voor noodstops?",
+    "options": [
+      "Een noodstop moet altijd onmiddellijk, zonder belemmeringen en goed bereikbaar zijn.",
+      "Een noodstop mag achter materiaal staan, zolang er maar een waarschuwingsbordje bij hangt.",
+      "De bediener had simpelweg de stekker uit het stopcontact moeten trekken in plaats van de noodstop te zoeken."
+    ],
+    "back": "Een noodstop moet altijd onmiddellijk, zonder belemmeringen en goed bereikbaar zijn.",
+    "explanation": "Een noodstop moet ten allen tijde vrijgehouden worden van obstakels. Elke seconde vertraging kan bij een draaiende machine rampzalige gevolgen hebben."
+  },
+  {
+    "chapter": "b3",
+    "front": "Welke belangrijke veiligheidsvoorziening is verplicht voor vrijwel alle soorten aangedreven (elektrisch, pneumatisch) handgereedschap?",
+    "options": [
+      "Een (niet-vergrendelbare) dodemansknop.",
+      "Een automatische luchttoevoer-afsluiter.",
+      "Dubbele isolatie (Klasse II)."
+    ],
+    "back": "Een (niet-vergrendelbare) dodemansknop.",
+    "explanation": "Een dodemansknop zorgt ervoor dat het apparaat onmiddellijk stopt zodra je de schakelaar loslaat (bijvoorbeeld als het gereedschap uit je handen slaat)."
+  },
+  {
+    "chapter": "b3",
+    "front": "Je gaat aan het werk met een voor jou nieuw elektrisch handgereedschap. Wat is de juiste en logische volgorde van de veiligheidsstappen vooraf?",
+    "options": [
+      "1. Informeer jezelf (instructies), 2. Controleer het apparaat, 3. Kies de juiste PBM's, 4. Voer een LMRA (Laatste Minuut Risico Analyse) uit.",
+      "1. Voer een LMRA uit, 2. Kies de juiste PBM's, 3. Informeer jezelf, 4. Controleer het apparaat.",
+      "1. Controleer het apparaat, 2. Kies de juiste PBM's, 3. Voer een LMRA uit, 4. Informeer jezelf."
+    ],
+    "back": "1. Informeer jezelf (instructies), 2. Controleer het apparaat, 3. Kies de juiste PBM's, 4. Voer een LMRA (Laatste Minuut Risico Analyse) uit.",
+    "explanation": "Voor je begint: weet hoe het werkt (informeren), check of het niet stuk is (controleren), bescherm jezelf (PBM's), en check vlak voor de start de directe omgeving op gevaren (LMRA)."
+  },
+  {
+    "chapter": "b3",
+    "front": "Welk arbeidsmiddel gebruik je specifiek voor het handmatig verplaatsen van pallets (zonder hefmotor, met een hefhoogte van ca. 20 cm)?",
+    "options": [
+      "Een palletwagen (pompwagen).",
+      "Een vorkheftruck.",
+      "Een handtakel."
+    ],
+    "back": "Een palletwagen (pompwagen).",
+    "explanation": "Een palletwagen wordt veel gebruikt in magazijnen om pallets horizontaal over de vloer te verplaatsen. Zware lasten trekken (in plaats van duwen) kan hierbij rug- en schouderklachten opleveren."
+  },
+  {
+    "chapter": "b3",
+    "front": "Welk arbeidsmiddel gebruik je voor het verticaal ophijsen van (zware) lasten met behulp van spierkracht via een ketting?",
+    "options": [
+      "Een handtakel.",
+      "Een vorkheftruck.",
+      "Een palletwagen."
+    ],
+    "back": "Een handtakel.",
+    "explanation": "Een takel wordt gebruikt om lasten recht omhoog te hijsen. Blijf altijd uit de 'Line of Fire' (sta nooit onder de hangende last)."
+  },
+  {
+    "chapter": "b3",
+    "front": "Welk gemotoriseerd transportvoertuig met vorken gebruik je voor het zwaar heffen en verplaatsen van goederen (waarbij specifieke certificering vereist is)?",
+    "options": [
+      "Een vorkheftruck.",
+      "Een palletwagen.",
+      "Een handtakel."
+    ],
+    "back": "Een vorkheftruck.",
+    "explanation": "Een vorkheftruck is een gemotoriseerd hefwerktuig. Bestuurders moeten minimaal 16 jaar zijn, specifieke deskundigheid (een certificaat) bezitten, en er zijn strikte regels (bijv. gordel dragen, sleutel niet achterlaten)."
   }
 ]
