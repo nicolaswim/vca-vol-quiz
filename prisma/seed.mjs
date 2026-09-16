@@ -26,8 +26,8 @@ async function main() {
     'a1': { title: 'A1: Module 1: Regelgeving en veiligheidsregels', description: 'Wetgeving en Arbeidsinspectie' },
     'a2': { title: 'A2: Module 2: Veilig werken, overleg en inspecties', description: 'Gevaren en risicobeheersing' },
     'a3': { title: 'A3: Module 3: Preventie', description: 'Wat te doen bij nood' },
-    'a_vragen_1': { title: 'A4: Oefentoets deel A: Kennisvragen', description: 'Kennisvragen A1' },
-    'a5_vragen_2': { title: 'A5: Oefentoets deel A: Toepassingsvragen', description: 'Kennisvragen A5' },
+    'a4': { title: 'A4: Oefentoets deel A: Kennisvragen', description: 'Kennisvragen A4' },
+    'a5': { title: 'A5: Oefentoets deel A: Toepassingsvragen', description: 'Toepassingsvragen' },
     'b1': { title: 'B1: Module 4: De werkplek', description: 'Borden en Markeringen' },
     'b2': { title: 'B2: Module 5: Persoonlijke beschermingsmiddelen', description: 'Veilige werkplek' },
     'b3': { title: 'B3: Module 6: Arbeidsmiddelen', description: 'PBMs' }

@@ -1,0 +1,166 @@
+[
+  {
+    "chapter": "a5",
+    "front": "Welke wet, die valt onder de nationale veiligheids- en gezondheidswetgeving, regelt de arbeidsomstandigheden op de werkvloer?",
+    "back": "Arbowet (Arbeidsomstandighedenwet)",
+    "options": [
+      "Wet milieubeheer",
+      "Arbowet (Arbeidsomstandighedenwet)"
+    ],
+    "explanation": "De Arbeidsomstandighedenwet (Arbowet) regelt de arbeidsomstandigheden op de werkvloer."
+  },
+  {
+    "chapter": "a5",
+    "front": "Wanneer moet een taakrisico-analyse (TRA) worden bijgesteld?",
+    "back": "Als de werkcondities zijn veranderd.",
+    "options": [
+      "Als de werkcondities zijn veranderd.",
+      "Nadat de taak is afgerond."
+    ],
+    "explanation": "Een TRA is dynamisch en moet altijd worden bijgesteld wanneer de omstandigheden of risico's op de werkplek veranderen."
+  },
+  {
+    "chapter": "a5",
+    "front": "Wat is een belangrijke bevoegdheid van de Nederlandse Arbeidsinspectie?",
+    "back": "Werkzaamheden stilleggen indien er een ernstig gevaar aanwezig is voor personen EN opstellen van een proces-verbaal naar aanleiding van een strafbaar feit.",
+    "options": [
+      "Toezicht houden op naleving van de Veiligheid- en gezondheidswetgeving EN onderzoek instellen naar aanleiding van een ongeval.",
+      "Werknemers vragen naar een geldige legitimatie EN eis stellen betreffende de wijze waarop de V&G wetgeving moet worden nageleefd.",
+      "Werkzaamheden stilleggen indien er een ernstig gevaar aanwezig is voor personen EN opstellen van een proces-verbaal naar aanleiding van een strafbaar feit."
+    ],
+    "explanation": "De Arbeidsinspectie mag werkzaamheden stilleggen bij ernstig gevaar en een proces-verbaal opmaken."
+  },
+  {
+    "chapter": "a5",
+    "front": "Een medewerker gebruikt een machine zonder de verplichte veiligheidsbril. De machine is in orde en de werkplek is opgeruimd. Hij raakt gewond aan zijn oog. Wat is de belangrijkste oorzaak?",
+    "back": "Onveilig handelen door de medewerker.",
+    "options": [
+      "Onveilig handelen door de medewerker.",
+      "Een onveilige situatie op de werkplek.",
+      "Er is onvoldoende toezicht gehouden door de Nederlandse Arbeidsinspectie."
+    ],
+    "explanation": "Omdat de machine in orde was en de werkplek opgeruimd, ligt de oorzaak bij het gedrag: het niet dragen van de verplichte PBM's."
+  },
+  {
+    "chapter": "a5",
+    "front": "Wat staat er globaal in het V&G-jaarplan?",
+    "back": "Wat het bedrijf dat jaar gaat doen om de werkplek veilig te houden, zoals acties, controles, opleidingen en verbeteringen.",
+    "options": [
+      "Alle preventieve maatregelen die het bedrijf neemt op het gebied van veiligheid en gezondheid.",
+      "Wat het bedrijf dat jaar gaat doen om de werkplek veilig te houden, zoals acties, controles, opleidingen en verbeteringen.",
+      "De risico-analyses van de gevaarlijke werkzaamheden."
+    ],
+    "explanation": "Het V&G-jaarplan bevat de geplande acties, controles en verbeteringen voor het komende jaar op het gebied van veiligheid en gezondheid."
+  },
+  {
+    "chapter": "a5",
+    "front": "Wie is verantwoordelijk voor de specifieke voorlichting en instructie van de uitzendkracht?",
+    "back": "De operationeel leidinggevende van de inlenende onderneming.",
+    "options": [
+      "Het uitlenende uitzendbureau.",
+      "De uitzendkracht zelf.",
+      "De operationeel leidinggevende van de inlenende onderneming."
+    ],
+    "explanation": "De inlener is verantwoordelijk voor de specifieke voorlichting en instructie over de werkplek en de taak."
+  },
+  {
+    "chapter": "a5",
+    "front": "Welke omschrijving past het beste bij een toolboxmeeting?",
+    "back": "Een korte vergadering in een informele sfeer over veiligheid, gezondheid en milieu.",
+    "options": [
+      "Een formeel werkoverleg over planning, uren en productiecijfers.",
+      "Een korte vergadering in een informele sfeer over veiligheid, gezondheid en milieu.",
+      "Een verplichte jaarlijkse veiligheidstraining met toets en certificaat."
+    ],
+    "explanation": "Een toolboxmeeting is een korte, periodieke bijeenkomst over een specifiek V&G-onderwerp."
+  },
+  {
+    "chapter": "a5",
+    "front": "Je bent leidinggevende en bent werkzaam bij een asbestverwijderingsbedrijf. Een van jouw medewerkers voert voorafgaand aan de werkzaamheden een LMRA uit. Hij vindt afwijkingen die niet in het werkplan staan. Wat doe je?",
+    "back": "Je neemt de nodige maatregelen voordat de medewerkers kunnen starten.",
+    "options": [
+      "We vullen achteraf de afwijkingen in. We gaan door.",
+      "Je neemt de nodige maatregelen voordat de medewerkers kunnen starten.",
+      "Er is een werkvergunning, dus er hoeft niets gewijzigd te worden."
+    ],
+    "explanation": "Als er tijdens de LMRA afwijkingen worden gevonden, moet het werk worden gestopt en moeten er eerst maatregelen worden genomen."
+  },
+  {
+    "chapter": "a5",
+    "front": "Waarom maak je een TRA?",
+    "back": "Om te zorgen dat medewerkers niet aan gevaarlijke werkzaamheden worden blootgesteld.",
+    "options": [
+      "Om te zorgen dat medewerkers niet aan gevaarlijke werkzaamheden worden blootgesteld.",
+      "Om gevaarlijke werkzaamheden te voorkomen."
+    ],
+    "explanation": "De TRA is bedoeld om risico's van een specifieke taak in kaart te brengen en maatregelen te nemen ter bescherming."
+  },
+  {
+    "chapter": "a5",
+    "front": "Wat is de juiste volgorde van de arbeidshygiënische strategie (van eerst toe te passen naar laatst)?",
+    "back": "Bronaanpak → Collectieve maatregelen → Individuele/organisatorische maatregelen → PBM’s.",
+    "options": [
+      "Collectieve maatregelen → Individuele/organisatorische maatregelen → PBM’s → Bronaanpak.",
+      "Bronaanpak → Collectieve maatregelen → Individuele/organisatorische maatregelen → PBM’s.",
+      "Bronaanpak → Individuele/organisatorische maatregelen → Collectieve maatregelen → PBM’s."
+    ],
+    "explanation": "De arbeidshygiënische strategie werkt altijd van de bron naar de persoon: bron, collectief, individueel, PBM's."
+  },
+  {
+    "chapter": "a5",
+    "front": "Welk recht heeft een medewerker als het gaat om zijn gezondheid?",
+    "back": "Het recht op een periodiek preventief medisch onderzoek (PMO).",
+    "options": [
+      "Het recht op een medische keuring.",
+      "Het recht op een jaarlijkse griepprik.",
+      "Het recht op een periodiek preventief medisch onderzoek (PMO)."
+    ],
+    "explanation": "Werknemers hebben wettelijk recht op een Periodiek Arbeidsgezondheidskundig Onderzoek (PAGO/PMO)."
+  },
+  {
+    "chapter": "a5",
+    "front": "Je bent bezig met je werk en je wilt gebruik maken van de handcirkelzaag. De stekker is kapot. Wat doe je?",
+    "back": "Ik stop onmiddellijk en zorg ervoor dat anderen de zaag niet meer kunnen gebruiken. Vervolgens meld ik dit volgens de afgesproken procedure. Pas daarna neem ik een veilige zaag in gebruik.",
+    "options": [
+      "Ik stop onmiddellijk en zorg ervoor dat anderen de zaag niet meer kunnen gebruiken. Vervolgens meld ik dit volgens de afgesproken procedure. Pas daarna neem ik een veilige zaag in gebruik.",
+      "Ik denk dat ik zelf de stekker wel kan repareren met tape waardoor ik in ieder geval eerst mijn werk kan afmaken. Daarna ga ik naar mijn leidinggevende.",
+      "Ik leg de zaag terug en neem zonder het te melden een andere zaag."
+    ],
+    "explanation": "Gebruik nooit kapot gereedschap. Borg het zodat anderen het niet gebruiken en meld het."
+  },
+  {
+    "chapter": "a5",
+    "front": "Je bent aan het werk en ziet een uitzendkracht over het bouwterrein lopen zonder de verplichte helm. Wat doe je?",
+    "back": "Ik meld dit direct bij de leidinggevende en zorg dat de uitzendkracht zijn helm onmiddellijk opzet.",
+    "options": [
+      "Ik meld dit direct bij de leidinggevende en zorg dat de uitzendkracht zijn helm onmiddellijk opzet.",
+      "Ik zeg dat hij onmiddellijk de helm op moet zetten.",
+      "Ik bel de Nederlandse Arbeidsinspectie en meld dit incident.",
+      "Ik doe niets, hij moet het zelf maar weten."
+    ],
+    "explanation": "Spreek personen direct aan op onveilig gedrag en zorg dat ze de regels naleven."
+  },
+  {
+    "chapter": "a5",
+    "front": "Je bent ingehuurd en je moet werk uitvoeren dat in jouw ogen gevaarlijk is. Wat doe je?",
+    "back": "Ik stop met werken en meld het bij mijn leidinggevende, zodat hij maatregelen kan nemen.",
+    "options": [
+      "Ik ga toch door, maar ik werk extra langzaam en voorzichtig.",
+      "Ik vraag een collega om mee te kijken; als hij het goed vindt, ga ik verder.",
+      "Ik bedenk zelf een tijdelijke oplossing zonder toestemming en maak de klus af.",
+      "Ik stop met werken en meld het bij mijn leidinggevende, zodat hij maatregelen kan nemen."
+    ],
+    "explanation": "Werknemers hebben het recht (en de plicht) om het werk te onderbreken bij ernstig gevaar."
+  },
+  {
+    "chapter": "a5",
+    "front": "Wat is het hoofddoel van een toolboxmeeting?",
+    "back": "Het motiveren en voorlichten van medewerkers om onveilig gedrag te voorkomen.",
+    "options": [
+      "Zorgen dat er geen ongevallen gebeuren.",
+      "Het motiveren en voorlichten van medewerkers om onveilig gedrag te voorkomen.",
+      "Alle medewerkers voor een klus bij elkaar brengen om de taken door te spreken."
+    ],
+    "explanation": "Een toolboxmeeting is bedoeld om de veiligheidsbewustwording en kennis over specifieke risico's te vergroten."
+  }
+]

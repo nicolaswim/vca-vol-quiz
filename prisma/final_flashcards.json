@@ -403,7 +403,7 @@
     "explanation": "Kies de juiste algemene gedragsregels om veilig te werken."
   },
   {
-    "chapter": "a5_vragen_2",
+    "chapter": "a5",
     "front": "Werken met laserstraling Werken met laserstraling",
     "back": "Werken met een hogedrukreiniger",
     "options": [
@@ -897,7 +897,7 @@
     "explanation": "De RI&E bestaat uit deze 5 stappen in deze specifieke volgorde om de risico's in een bedrijf goed te beheersen."
   },
   {
-    "chapter": "a_vragen_1",
+    "chapter": "a4",
     "front": "Je bent leidinggevende en bent werkzaam bij een asbestverwijderingsbedrijf. Een van jouw medewerkers voert voorafgaand aan de werkzaamheden een LMRA uit. Hij vindt afwijkingen die niet in het werkplan staan. Wat doe je?",
     "options": [
       "Er is een werkvergunning, dus er hoeft niets gewijzigd te worden.",
@@ -908,7 +908,7 @@
     "explanation": "Als er tijdens een LMRA afwijkingen of onvoorziene risico's worden gevonden, mag het werk niet starten totdat de juiste maatregelen zijn genomen om veilig te kunnen werken."
   },
   {
-    "chapter": "a_vragen_1",
+    "chapter": "a4",
     "front": "Welke wet, die valt onder de nationale veiligheids- en gezondheidswetgeving, regelt de arbeidsomstandigheden op de werkvloer?",
     "options": [
       "Wet milieubeheer",
@@ -919,7 +919,7 @@
     "explanation": "De Arbeidsomstandighedenwet (Arbowet) bevat regels en richtlijnen voor werkgevers en werknemers om de gezondheid, veiligheid en welzijn op de werkvloer te bevorderen."
   },
   {
-    "chapter": "a_vragen_1",
+    "chapter": "a4",
     "front": "Wanneer moet een taakrisico-analyse (TRA) worden bijgesteld?",
     "options": [
       "Vooraf, als de risico's in kaart worden gebracht.",
@@ -930,7 +930,7 @@
     "explanation": "Een TRA is specifiek voor een taak onder bepaalde omstandigheden. Als deze omstandigheden wijzigen, kloppen de ingeschatte risico's en maatregelen mogelijk niet meer en moet de TRA worden herzien."
   },
   {
-    "chapter": "a_vragen_1",
+    "chapter": "a4",
     "front": "Waarom maak je een TRA (Taak-Risico-Analyse)?",
     "options": [
       "Om gevaarlijke werkzaamheden te voorkomen.",
@@ -941,7 +941,7 @@
     "explanation": "Sommige risicovolle werkzaamheden moeten toch worden uitgevoerd. De TRA helpt om hierbij de risico's vooraf te identificeren en beheersmaatregelen te bepalen, niet per se om het werk te voorkomen."
   },
   {
-    "chapter": "a_vragen_1",
+    "chapter": "a4",
     "front": "Wanneer is een TRA (Taak-Risico-Analyse) noodzakelijk?",
     "options": [
       "Alleen bij taken waar geen procedures voor zijn.",
@@ -953,7 +953,7 @@
     "explanation": "Een TRA wordt ingezet bij afwijkende en hoog-risico werkzaamheden zonder standaardprocedure, of wanneer een werkvergunning dit expliciet vereist. (Optie 4 gaat over de RI&E)."
   },
   {
-    "chapter": "a_vragen_1",
+    "chapter": "a4",
     "front": "Welke personen vallen onder de zorgverplichting van een werkgever?",
     "options": [
       "Alleen de eigen werknemers",
@@ -964,7 +964,7 @@
     "explanation": "De zorgplicht van de werkgever strekt zich uit tot iedereen die zich op de werkplek of het terrein bevindt."
   },
   {
-    "chapter": "a_vragen_1",
+    "chapter": "a4",
     "front": "Wat zijn de sanctiemogelijkheden van de Nederlandse Arbeidsinspectie?",
     "options": [
       "Alleen het opstellen van een boeterapport aan de werkgever",
@@ -976,7 +976,7 @@
     "explanation": "De Arbeidsinspectie kan zowel bedrijven (werkgevers) als individuele werknemers (bijvoorbeeld bij het weigeren van PBM's) beboeten bij overtredingen."
   },
   {
-    "chapter": "a_vragen_1",
+    "chapter": "a4",
     "front": "Wat staat er globaal in het V&G-jaarplan (Veiligheid en Gezondheid)?",
     "options": [
       "De data en afspraken voor alle toolboxmeetings.",
@@ -988,7 +988,7 @@
     "explanation": "Het V&G-jaarplan is een actieplan (voortvloeiend uit het Plan van Aanpak van de RI&E) voor de activiteiten en doelen van dat specifieke jaar."
   },
   {
-    "chapter": "a_vragen_1",
+    "chapter": "a4",
     "front": "Wie is verantwoordelijk voor de specifieke voorlichting en instructie van de uitzendkracht?",
     "options": [
       "De operationeel leidinggevende van de inlenende onderneming.",
@@ -1000,7 +1000,7 @@
     "explanation": "Het uitzendbureau zorgt voor de algemene voorlichting (zoals een VCA-diploma), maar de inlener (waar de uitzendkracht daadwerkelijk werkt) is wettelijk verantwoordelijk voor de specifieke, taak- en werkplekgebonden instructies."
   },
   {
-    "chapter": "a_vragen_1",
+    "chapter": "a4",
     "front": "Welke omschrijving past het beste bij een toolboxmeeting?",
     "options": [
       "Een werkplekinspectie (audit) met checklists waarbij de leidinggevende tekortkomingen noteert.",
