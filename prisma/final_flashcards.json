@@ -1088,5 +1088,28 @@
     ],
     "back": "Al het bovenstaande is noodzakelijk: Mangatwacht, goede ventilatie/afzuiging (vooral bij heet werk zoals lassen), en het afzetten van de ruimte.",
     "explanation": "Werken in een besloten ruimte met lasapparatuur brengt grote verstikkings- en brandrisico's met zich mee. Toezicht, afscherming en afzuiging zijn cruciaal."
+  },
+  {
+    "chapter": "a5",
+    "front": "Een opdrachtgever huurt drie verschillende aannemers in: de werknemers van de aannemers werken samen op dezelfde bouwplaats. Welke verplichtingen heeft de opdrachtgever ten aanzien van de V&G-wetgeving?\n(Meerdere antwoorden mogelijk)",
+    "options": [
+      "De opdrachtgever moet de samenwerking tussen de verschillende partijen coördineren.",
+      "De opdrachtgever houdt toezicht op de naleving van de V&G-wetgeving.",
+      "Het verstrekken van de juiste persoonlijke beschermingsmiddelen.",
+      "Een V&G-plan opstellen voor de werknemers van de verschillende aannemers."
+    ],
+    "back": "De opdrachtgever moet de samenwerking tussen de verschillende partijen coördineren, toezicht houden op de naleving, EN een V&G-plan (ontwerpfase) opstellen.",
+    "explanation": "Wanneer meerdere aannemers samenwerken, is de opdrachtgever (of de door hem aangestelde coördinator) wettelijk verplicht de samenwerking rond veiligheid te coördineren en een V&G-plan op te stellen. PBM's verstrekken is de taak van de individuele werkgevers."
+  },
+  {
+    "chapter": "a5",
+    "front": "Je werkt bij een staalconstructiebedrijf. Jouw team van lassers werkt op de montage. In welke van de volgende situaties moet je de bestaande Taak-Risico-Analyse (TRA) bijstellen of een nieuwe opstellen?\n(Meerdere antwoorden mogelijk)",
+    "options": [
+      "Als er een nieuw type montage-apparaat moet worden gebruikt.",
+      "Als er door de montage-afdeling een nieuw model staalconstructie moet worden gemaakt.",
+      "Iedere dag moet een TRA bijgesteld worden voordat er wordt aangevangen met het werk."
+    ],
+    "back": "Als er een nieuw type montage-apparaat gebruikt wordt, EN als er een nieuw model staalconstructie gemaakt wordt.",
+    "explanation": "Een TRA pas je aan wanneer de werkomstandigheden, gereedschappen of werkmethodes wezenlijk veranderen, omdat dit nieuwe risico's met zich meebrengt. Je hoeft hem niet klakkeloos elke dag opnieuw te schrijven als het werk hetzelfde blijft (daarvoor is de LMRA)."
   }
 ]
