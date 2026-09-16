@@ -1,0 +1,112 @@
+[
+  {
+    "chapter": "b2",
+    "front": "Welk type oogbescherming geeft wel bescherming van voren, maar GEEN bescherming tegen (vloei)stoffen die van onderen komen?",
+    "options": [
+      "De ruimzichtbril",
+      "Het gelaatsscherm",
+      "De standaard veiligheidsbril"
+    ],
+    "back": "De standaard veiligheidsbril",
+    "explanation": "Een gewone veiligheidsbril sluit niet volledig aan op het gezicht. Voor bescherming tegen spatten van vloeistoffen (die ook van onderen kunnen komen) is een ruimzichtbril nodig."
+  },
+  {
+    "chapter": "b2",
+    "front": "Welk type bescherming sluit volledig aan rondom de ogen en beschermt zo tegen gevaarlijke vloeistofspatten of gassen?",
+    "options": [
+      "De veiligheidsbril met zijkapjes",
+      "De ruimzichtbril",
+      "Het gelaatsscherm"
+    ],
+    "back": "De ruimzichtbril",
+    "explanation": "Een ruimzichtbril sluit door een zachte rand volledig aan op de huid en beschermt tegen druppels, spatten en stof uit alle richtingen."
+  },
+  {
+    "chapter": "b2",
+    "front": "Welk beschermingsmiddel beschermt niet alleen je ogen, maar je hele gezicht (bijvoorbeeld tegen rondvliegende vonken en slijpdeeltjes)?",
+    "options": [
+      "De ruimzichtbril",
+      "Het gelaatsscherm",
+      "De lasbril"
+    ],
+    "back": "Het gelaatsscherm",
+    "explanation": "Een gelaatsscherm bedekt het hele gezicht. Dit is essentieel bij bijvoorbeeld slijpwerkzaamheden, waar deeltjes het hele gelaat kunnen raken."
+  },
+  {
+    "chapter": "b2",
+    "front": "Je werkt in een omgeving met gevaarlijke en schadelijke stoffen in de lucht (waarbij bronafzuiging niet voldoende is). Welk gebodsbord kun je hier verwachten?",
+    "options": [
+      "Een rond, blauw bord met een wit adembeschermingsmasker erop.",
+      "Een rechthoekig groen bord met een wit vizier.",
+      "Een rond, rood bord met een gasmasker en een streep erdoor."
+    ],
+    "back": "Een rond, blauw bord met een wit adembeschermingsmasker erop.",
+    "explanation": "Blauwe, ronde borden geven een verplichting aan. Bij schadelijke stoffen is adembescherming (zoals een masker) verplicht."
+  },
+  {
+    "chapter": "b2",
+    "front": "Je ziet op de werkplaats een collega die een veiligheidshelm draagt met een zichtbaar scheurtje erin. Wat is de juiste actie?",
+    "options": [
+      "Je plakt er stevig tape overheen zodat hij de dag kan afmaken.",
+      "Je wijst hem erop dat de helm defect is en dat hij pas veilig verder kan werken als hij de helm direct vervangt.",
+      "Je zegt er niets van, de helm valt toch niet zomaar uit elkaar."
+    ],
+    "back": "Je wijst hem erop dat de helm defect is en dat hij pas veilig verder kan werken als hij de helm direct vervangt.",
+    "explanation": "Laat nooit iemand werken met een beschadigde veiligheidshelm. Elke beschadiging tast de schokabsorberende werking aan."
+  },
+  {
+    "chapter": "b2",
+    "front": "Je moet werken met (of in een omgeving met veel) vloeibare gevaarlijke stoffen en water. Welk schoeisel ben je verplicht aan te trekken?",
+    "options": [
+      "Veiligheidsschoenen type S2",
+      "Veiligheidsschoenen type S3",
+      "Veiligheidslaarzen"
+    ],
+    "back": "Veiligheidslaarzen",
+    "explanation": "In een omgeving met veel water, modder of vloeibare gevaarlijke stoffen ben je verplicht veiligheidslaarzen te dragen in plaats van normale veiligheidsschoenen."
+  },
+  {
+    "chapter": "b2",
+    "front": "Wanneer en waarvoor wordt speciale 'wegwerpkleding' vooral gebruikt?",
+    "options": [
+      "Bij werkzaamheden met veel hitte of vonken, zoals lassen.",
+      "Bij het werken in koude of natte weersomstandigheden.",
+      "Bij het werken met gevaarlijke stoffen, zoals asbest of giftige poeders."
+    ],
+    "back": "Bij het werken met gevaarlijke stoffen, zoals asbest of giftige poeders.",
+    "explanation": "Wegwerpkleding voorkomt dat gevaarlijke stoffen (zoals asbestvezels) in je gewone kleding trekken en zich verspreiden buiten de werkplek."
+  },
+  {
+    "chapter": "b2",
+    "front": "Waarvoor gebruik je 'signaalkleding' op de werkplek?",
+    "options": [
+      "Om je te beschermen tegen radioactieve straling.",
+      "Om elektriciteit te geleiden bij antistatisch werk.",
+      "Om de zichtbaarheid van de werknemer sterk te vergroten (bijvoorbeeld bij wegwerkzaamheden of in de bouw)."
+    ],
+    "back": "Om de zichtbaarheid van de werknemer sterk te vergroten (bijvoorbeeld bij wegwerkzaamheden of in de bouw).",
+    "explanation": "Signaalkleding is vaak fel gekleurd en voorzien van reflecterende strepen zodat je goed opvalt in het verkeer of rondom zwaar materieel."
+  },
+  {
+    "chapter": "b2",
+    "front": "Wat is het belangrijkste verschil tussen een veiligheidsschoen type S2 en type S3?",
+    "options": [
+      "Een S3 schoen is waterdicht, S2 niet.",
+      "Een S3 schoen heeft naast een stalen neus óók een stalen (of ondoordringbare) tussenzool.",
+      "Een S3 schoen heeft geen veters, S2 wel."
+    ],
+    "back": "Een S3 schoen heeft naast een stalen neus óók een stalen (of ondoordringbare) tussenzool.",
+    "explanation": "S2 heeft een beschermende neus en is waterafstotend. S3 voegt daar nog een anti-perforatiezool aan toe (tegen scherpe voorwerpen op de grond zoals spijkers)."
+  },
+  {
+    "chapter": "b2",
+    "front": "Wanneer moet je het filter van je adembeschermingsmasker vervangen?",
+    "options": [
+      "Zodra de vervaldatum is verstreken, je geur- of smaakveranderingen opmerkt, of de ademweerstand toeneemt.",
+      "Alleen wanneer de ademweerstand zo groot wordt dat je echt niet meer kunt ademen.",
+      "Elke ochtend voordat je begint met werken."
+    ],
+    "back": "Zodra de vervaldatum is verstreken, je geur- of smaakveranderingen opmerkt, of de ademweerstand toeneemt.",
+    "explanation": "Een verzadigd filter werkt niet meer. Bij stofmaskers voel je dat aan de ademweerstand. Bij gasfilters kun je plotseling een geur of smaak waarnemen, dat betekent dat je direct moet wisselen!"
+  }
+]
