@@ -1,166 +1,208 @@
 [
   {
     "chapter": "a5",
-    "front": "Welke wet, die valt onder de nationale veiligheids- en gezondheidswetgeving, regelt de arbeidsomstandigheden op de werkvloer?",
-    "back": "Arbowet (Arbeidsomstandighedenwet)",
+    "front": "Op welk moment is een bedrijfsarts nodig?\n(Meerdere antwoorden mogelijk)",
     "options": [
-      "Wet milieubeheer",
-      "Arbowet (Arbeidsomstandighedenwet)"
+      "Als een aanstellingskeuring wordt uitgevoerd bij werknemers die risicovolle werkzaamheden gaan verrichten.",
+      "Als een medewerker die werkt met een gevaarlijke stof een periodiek medisch onderzoek wenst.",
+      "Als een gasmeter gekeurd moet worden."
     ],
-    "explanation": "De Arbeidsomstandighedenwet (Arbowet) regelt de arbeidsomstandigheden op de werkvloer."
+    "back": "Aanstellingskeuring voor risicovolle werkzaamheden EN Periodiek medisch onderzoek (PMO) voor medewerkers.",
+    "explanation": "Een bedrijfsarts is verantwoordelijk voor medische keuringen (zoals de aanstellingskeuring) en het Periodiek ArbeidsGezondheidskundig Onderzoek (PAGO/PMO). Het keuren van een gasmeter is een technische taak, geen medische."
   },
   {
     "chapter": "a5",
-    "front": "Wanneer moet een taakrisico-analyse (TRA) worden bijgesteld?",
-    "back": "Als de werkcondities zijn veranderd.",
+    "front": "In een woonwijk moet een flatgebouw worden gerenoveerd en deels worden gesloopt. Welke personen staan volgens de V&G-wetgeving onder toezicht van de werkgever van het bedrijf die het werk heeft aangenomen?\n(Meerdere antwoorden mogelijk)",
     "options": [
-      "Als de werkcondities zijn veranderd.",
-      "Nadat de taak is afgerond."
+      "De ingehuurde uitzendkrachten.",
+      "De werknemers van het bedrijf dat het werk heeft aangenomen.",
+      "De ingehuurde werknemers van onderaannemers.",
+      "De omwonenden van de flat."
     ],
-    "explanation": "Een TRA is dynamisch en moet altijd worden bijgesteld wanneer de omstandigheden of risico's op de werkplek veranderen."
+    "back": "De eigen werknemers, uitzendkrachten EN werknemers van onderaannemers.",
+    "explanation": "De hoofdaannemer/werkgever is verantwoordelijk voor alle personen die op de werkplek (bouwplaats) werkzaamheden voor hem verrichten, inclusief onderaannemers en uitzendkrachten. Omwonenden vallen niet onder zijn toezicht, hoewel de omgeving wel veilig moet blijven."
   },
   {
     "chapter": "a5",
-    "front": "Wat is een belangrijke bevoegdheid van de Nederlandse Arbeidsinspectie?",
-    "back": "Werkzaamheden stilleggen indien er een ernstig gevaar aanwezig is voor personen EN opstellen van een proces-verbaal naar aanleiding van een strafbaar feit.",
+    "front": "Een bedrijf met een VCA-certificaat huurt drie werknemers van een aannemer in om een klus te doen waarbij zij gebruik maken van een hoogwerker. Welke diploma's/certificaten moeten de werknemers hebben?\n(Meerdere antwoorden mogelijk)",
     "options": [
-      "Toezicht houden op naleving van de Veiligheid- en gezondheidswetgeving EN onderzoek instellen naar aanleiding van een ongeval.",
-      "Werknemers vragen naar een geldige legitimatie EN eis stellen betreffende de wijze waarop de V&G wetgeving moet worden nageleefd.",
-      "Werkzaamheden stilleggen indien er een ernstig gevaar aanwezig is voor personen EN opstellen van een proces-verbaal naar aanleiding van een strafbaar feit."
+      "B-VCA diploma (of VOL-VCA)",
+      "Werken met een hoogwerker certificaat",
+      "Werken op hoogte certificaat"
     ],
-    "explanation": "De Arbeidsinspectie mag werkzaamheden stilleggen bij ernstig gevaar en een proces-verbaal opmaken."
+    "back": "B-VCA (of VOL-VCA) EN een specifiek hoogwerker certificaat.",
+    "explanation": "Voor operationele medewerkers bij een VCA-gecertificeerd bedrijf is B-VCA verplicht. Daarnaast is voor het bedienen van een hoogwerker specifieke deskundigheid (een certificaat/aantoonbare training) wettelijk vereist."
   },
   {
     "chapter": "a5",
-    "front": "Een medewerker gebruikt een machine zonder de verplichte veiligheidsbril. De machine is in orde en de werkplek is opgeruimd. Hij raakt gewond aan zijn oog. Wat is de belangrijkste oorzaak?",
-    "back": "Onveilig handelen door de medewerker.",
+    "front": "Je bent leidinggevende bij een schoonmaakbedrijf, gespecialiseerd in het schoonmaken van besloten ruimten. Welke diploma's of certificaten hebben jij als leidinggevende en je medewerkers nodig?",
     "options": [
-      "Onveilig handelen door de medewerker.",
-      "Een onveilige situatie op de werkplek.",
-      "Er is onvoldoende toezicht gehouden door de Nederlandse Arbeidsinspectie."
+      "VOL-VCA voor de leidinggevende, B-VCA voor de medewerkers, en specifiek SOG Buitenwacht/Mangatwacht voor degenen die buiten de wacht houden.",
+      "Alleen B-VCA voor iedereen is voldoende.",
+      "Werken met explosiegevaarlijke en toxische stoffen certificaat (SOG) voor allemaal."
     ],
-    "explanation": "Omdat de machine in orde was en de werkplek opgeruimd, ligt de oorzaak bij het gedrag: het niet dragen van de verplichte PBM's."
+    "back": "VOL-VCA voor de leidinggevende, B-VCA voor de medewerkers, en specifiek SOG Buitenwacht/Mangatwacht voor degenen die buiten de wacht houden.",
+    "explanation": "Leidinggevenden hebben VOL-VCA nodig, operationele werknemers B-VCA. Voor de specifieke, hoog-risico functie van mangatwacht is een aanvullend certificaat (zoals SOG Buitenwacht) vereist."
   },
   {
     "chapter": "a5",
-    "front": "Wat staat er globaal in het V&G-jaarplan?",
-    "back": "Wat het bedrijf dat jaar gaat doen om de werkplek veilig te houden, zoals acties, controles, opleidingen en verbeteringen.",
+    "front": "Jouw team moet een nieuwe dakbedekking (met gasbranders) aanbrengen op het dak van een petrochemische fabriek. Welke taken/regels moet jij als leidinggevende toepassen?\n(Meerdere antwoorden mogelijk)",
     "options": [
-      "Alle preventieve maatregelen die het bedrijf neemt op het gebied van veiligheid en gezondheid.",
-      "Wat het bedrijf dat jaar gaat doen om de werkplek veilig te houden, zoals acties, controles, opleidingen en verbeteringen.",
-      "De risico-analyses van de gevaarlijke werkzaamheden."
+      "Toezicht houden of medewerkers zich aan de afgesproken veiligheidsvoorschriften houden.",
+      "Medewerkers informeren over de inhoud van de afspraken die zijn gemaakt om veilig te werken.",
+      "De afspraken die zijn gemaakt schriftelijk vastleggen.",
+      "Zorgen dat alle medewerkers onafhankelijke adembescherming dragen."
     ],
-    "explanation": "Het V&G-jaarplan bevat de geplande acties, controles en verbeteringen voor het komende jaar op het gebied van veiligheid en gezondheid."
+    "back": "Toezicht houden, medewerkers informeren, EN de afspraken schriftelijk vastleggen.",
+    "explanation": "Als leidinggevende ben je verantwoordelijk voor voorlichting, toezicht en het vastleggen van de afspraken (bijv. in een TRA/werkvergunning). Onafhankelijke adembescherming is voor buitenwerk op een dak in principe niet standaard vereist zonder verdere aanleiding."
   },
   {
     "chapter": "a5",
-    "front": "Wie is verantwoordelijk voor de specifieke voorlichting en instructie van de uitzendkracht?",
-    "back": "De operationeel leidinggevende van de inlenende onderneming.",
+    "front": "Op de werkplaats ontstaat veel stof door slijpwerkzaamheden. Medewerkers klagen over stofhinder. Jij bent leidinggevende en moet direct beslissen. Welke maatregel past het beste binnen de arbeidshygiënische strategie?",
     "options": [
-      "Het uitlenende uitzendbureau.",
-      "De uitzendkracht zelf.",
-      "De operationeel leidinggevende van de inlenende onderneming."
+      "Overschakelen op nat zagen/slijpen of een stofarme techniek (bronaanpak) en pas daarna verder werken.",
+      "Iedereen een FFP3-masker laten dragen en doorwerken.",
+      "Waarschuwingsborden plaatsen en een toolbox houden over stofrisico's."
     ],
-    "explanation": "De inlener is verantwoordelijk voor de specifieke voorlichting en instructie over de werkplek en de taak."
+    "back": "Overschakelen op nat zagen/slijpen of een stofarme techniek (bronaanpak) en pas daarna verder werken.",
+    "explanation": "De arbeidshygiënische strategie dicteert dat je het gevaar eerst bij de BRON moet aanpakken (bronaanpak). Nat slijpen voorkomt dat het stof überhaupt in de lucht komt. Maskers (PBM) zijn pas de allerlaatste stap."
   },
   {
     "chapter": "a5",
-    "front": "Welke omschrijving past het beste bij een toolboxmeeting?",
-    "back": "Een korte vergadering in een informele sfeer over veiligheid, gezondheid en milieu.",
+    "front": "Een medewerker werkt met een kettingzaag zonder gehoorbescherming, omdat hij dit 'niet graag draagt'. Hoe zorg je dat hij wel gehoorbescherming gaat dragen?\n(Meerdere antwoorden mogelijk)",
     "options": [
-      "Een formeel werkoverleg over planning, uren en productiecijfers.",
-      "Een korte vergadering in een informele sfeer over veiligheid, gezondheid en milieu.",
-      "Een verplichte jaarlijkse veiligheidstraining met toets en certificaat."
+      "Wijs hem op het risico van gehoorschade en op zijn wettelijke plicht om PBM's te dragen.",
+      "Zorg voor gehoorbescherming die goed past (bijv. op maat gemaakt of comfortabeler).",
+      "Vraag zijn directe collega's om hem in de gaten te houden en hem te attenderen.",
+      "Ontsla hem direct."
     ],
-    "explanation": "Een toolboxmeeting is een korte, periodieke bijeenkomst over een specifiek V&G-onderwerp."
+    "back": "Wijs hem op de risico's en plichten, EN zorg voor gehoorbescherming die goed en comfortabel past.",
+    "explanation": "Door uitleg te geven over de gevaren (voorlichting), te wijzen op plichten (toezicht) en de oorzaak van het niet-dragen weg te nemen (slecht passende PBM's), motiveer je veilig gedrag."
   },
   {
     "chapter": "a5",
-    "front": "Je bent leidinggevende en bent werkzaam bij een asbestverwijderingsbedrijf. Een van jouw medewerkers voert voorafgaand aan de werkzaamheden een LMRA uit. Hij vindt afwijkingen die niet in het werkplan staan. Wat doe je?",
-    "back": "Je neemt de nodige maatregelen voordat de medewerkers kunnen starten.",
+    "front": "Vanaf een dak op 8 meter hoogte valt een stuk gereedschap naar beneden. Een collega kan het net ontwijken. Hoe pak je dit 'bijna-ongeval' aan als leidinggevende?\n(Meerdere antwoorden mogelijk)",
     "options": [
-      "We vullen achteraf de afwijkingen in. We gaan door.",
-      "Je neemt de nodige maatregelen voordat de medewerkers kunnen starten.",
-      "Er is een werkvergunning, dus er hoeft niets gewijzigd te worden."
+      "Ik meld het bijna-ongeval via de juiste procedure.",
+      "Ik organiseer een toolboxmeeting over het gevaar van vallende voorwerpen.",
+      "Omdat er niemand gewond is, laat je het incident verder rusten."
     ],
-    "explanation": "Als er tijdens de LMRA afwijkingen worden gevonden, moet het werk worden gestopt en moeten er eerst maatregelen worden genomen."
+    "back": "Ik meld het bijna-ongeval via de juiste procedure EN organiseer een toolboxmeeting over vallende voorwerpen.",
+    "explanation": "Een bijna-ongeval moet net als een ongeval gemeld en onderzocht worden om herhaling (die wél kan leiden tot letsel) in de toekomst te voorkomen. Een toolbox is een goed moment om de lessen te delen."
   },
   {
     "chapter": "a5",
-    "front": "Waarom maak je een TRA?",
-    "back": "Om te zorgen dat medewerkers niet aan gevaarlijke werkzaamheden worden blootgesteld.",
+    "front": "Voor welke van de volgende werkzaamheden heb je een aanvullende opleiding/specifiek certificaat (bijv. SOG) nodig, wanneer je bij een olie- en gasfabriek werkt?",
     "options": [
-      "Om te zorgen dat medewerkers niet aan gevaarlijke werkzaamheden worden blootgesteld.",
-      "Om gevaarlijke werkzaamheden te voorkomen."
+      "Werken in een besloten ruimte.",
+      "Laswerkzaamheden (heet werk).",
+      "Schoonmaken van een kantoorruimte."
     ],
-    "explanation": "De TRA is bedoeld om risico's van een specifieke taak in kaart te brengen en maatregelen te nemen ter bescherming."
+    "back": "Werken in een besloten ruimte EN laswerkzaamheden.",
+    "explanation": "Werken in besloten ruimten en heet werk (lassen) behoren tot risicovolle taken in de (petro)chemie en vereisen specifieke werkvergunningen en aanvullende opleidingen/certificaten."
   },
   {
     "chapter": "a5",
-    "front": "Wat is de juiste volgorde van de arbeidshygiënische strategie (van eerst toe te passen naar laatst)?",
-    "back": "Bronaanpak → Collectieve maatregelen → Individuele/organisatorische maatregelen → PBM’s.",
+    "front": "Een medewerker valt van de ladder en breekt zijn arm. In de toolboxmeeting wordt hierover gesproken. Welke vragen stel je om achter de OORZAAK van dit ongeval te komen?\n(Meerdere antwoorden mogelijk)",
     "options": [
-      "Collectieve maatregelen → Individuele/organisatorische maatregelen → PBM’s → Bronaanpak.",
-      "Bronaanpak → Collectieve maatregelen → Individuele/organisatorische maatregelen → PBM’s.",
-      "Bronaanpak → Individuele/organisatorische maatregelen → Collectieve maatregelen → PBM’s."
+      "Is iedereen bekend met de veiligheidsinstructies?",
+      "Wat leren we van dit ongeval?",
+      "Hoe lang is de medewerker ziek?",
+      "Wat staat er in de wet over ladders?"
     ],
-    "explanation": "De arbeidshygiënische strategie werkt altijd van de bron naar de persoon: bron, collectief, individueel, PBM's."
+    "back": "Is iedereen bekend met de veiligheidsinstructies? EN Wat leren we van dit ongeval?",
+    "explanation": "Deze vragen richten zich op het voorkomen van toekomstige ongevallen (evaluatie) en de grondoorzaak (hadden ze de instructie?). Hoe lang hij ziek is, vertelt je niets over hoe het ongeval kon gebeuren."
   },
   {
     "chapter": "a5",
-    "front": "Welk recht heeft een medewerker als het gaat om zijn gezondheid?",
-    "back": "Het recht op een periodiek preventief medisch onderzoek (PMO).",
+    "front": "Waar let je als leidinggevende specifiek op tijdens een observatieronde of werkplekinspectie?\n(Meerdere antwoorden mogelijk)",
     "options": [
-      "Het recht op een medische keuring.",
-      "Het recht op een jaarlijkse griepprik.",
-      "Het recht op een periodiek preventief medisch onderzoek (PMO)."
+      "Of de medewerkers veilig werken en hun PBM's gebruiken.",
+      "De orde en netheid van de werkomgeving.",
+      "De staat en het veilige gebruik van arbeidsmiddelen.",
+      "Of de medewerkers de TRA hebben opgesteld (bewustzijn/documentatie)."
     ],
-    "explanation": "Werknemers hebben wettelijk recht op een Periodiek Arbeidsgezondheidskundig Onderzoek (PAGO/PMO)."
+    "back": "Je let op al deze punten: Veilig gedrag en PBM's, orde en netheid, staat van arbeidsmiddelen, en of de vereiste TRA's worden gevolgd.",
+    "explanation": "Een werkplekinspectie is een totaalcontrole van zowel de onveilige handelingen (gedrag) als onveilige situaties (orde, netheid, apparatuur) op de vloer."
   },
   {
     "chapter": "a5",
-    "front": "Je bent bezig met je werk en je wilt gebruik maken van de handcirkelzaag. De stekker is kapot. Wat doe je?",
-    "back": "Ik stop onmiddellijk en zorg ervoor dat anderen de zaag niet meer kunnen gebruiken. Vervolgens meld ik dit volgens de afgesproken procedure. Pas daarna neem ik een veilige zaag in gebruik.",
+    "front": "Er vindt op een bouwplaats een ongeval plaats. Uit onderzoek van de Arbeidsinspectie blijkt dat de V&G-wetgeving is overtreden door zowel de werkgever als de werknemer. Aan wie deelt de Arbeidsinspectie een boete uit?",
     "options": [
-      "Ik stop onmiddellijk en zorg ervoor dat anderen de zaag niet meer kunnen gebruiken. Vervolgens meld ik dit volgens de afgesproken procedure. Pas daarna neem ik een veilige zaag in gebruik.",
-      "Ik denk dat ik zelf de stekker wel kan repareren met tape waardoor ik in ieder geval eerst mijn werk kan afmaken. Daarna ga ik naar mijn leidinggevende.",
-      "Ik leg de zaag terug en neem zonder het te melden een andere zaag."
+      "Beiden (zowel werkgever als werknemer).",
+      "Alleen de werkgever.",
+      "Alleen de werknemer."
     ],
-    "explanation": "Gebruik nooit kapot gereedschap. Borg het zodat anderen het niet gebruiken en meld het."
+    "back": "Beiden (zowel werkgever als werknemer).",
+    "explanation": "De Arbowet legt verplichtingen op aan de werkgever én de werknemer. Bij aantoonbare overtredingen kunnen beiden afzonderlijk een boete krijgen van de Arbeidsinspectie."
   },
   {
     "chapter": "a5",
-    "front": "Je bent aan het werk en ziet een uitzendkracht over het bouwterrein lopen zonder de verplichte helm. Wat doe je?",
-    "back": "Ik meld dit direct bij de leidinggevende en zorg dat de uitzendkracht zijn helm onmiddellijk opzet.",
+    "front": "In welke situaties ben je verplicht om (naast de RI&E) specifiek een Taakrisico-analyse (TRA) op te stellen?\n(Meerdere antwoorden mogelijk)",
     "options": [
-      "Ik meld dit direct bij de leidinggevende en zorg dat de uitzendkracht zijn helm onmiddellijk opzet.",
-      "Ik zeg dat hij onmiddellijk de helm op moet zetten.",
-      "Ik bel de Nederlandse Arbeidsinspectie en meld dit incident.",
-      "Ik doe niets, hij moet het zelf maar weten."
+      "Voor de aanvang van nieuwe projecten met afwijkende, hoge risico's.",
+      "Indien het is voorgeschreven in het werkvergunningensysteem.",
+      "Voor de aanvang van standaard, dagelijkse routinewerkzaamheden met een laag risico.",
+      "Bij aanschaf van nieuwe machines (dan wijzig je de RI&E)."
     ],
-    "explanation": "Spreek personen direct aan op onveilig gedrag en zorg dat ze de regels naleven."
+    "back": "Voor aanvang van nieuwe (complexe) projecten EN indien voorgeschreven door een werkvergunning.",
+    "explanation": "Een TRA wordt opgesteld voor hoog-risico werkzaamheden die afwijken van de routine en waarbij de standaard RI&E niet voldoende inzicht biedt."
   },
   {
     "chapter": "a5",
-    "front": "Je bent ingehuurd en je moet werk uitvoeren dat in jouw ogen gevaarlijk is. Wat doe je?",
-    "back": "Ik stop met werken en meld het bij mijn leidinggevende, zodat hij maatregelen kan nemen.",
+    "front": "Als leidinggevende voer je regelmatig werkplekinspecties uit. Wat zijn goede praktijken hierbij?\n(Meerdere antwoorden mogelijk)",
     "options": [
-      "Ik ga toch door, maar ik werk extra langzaam en voorzichtig.",
-      "Ik vraag een collega om mee te kijken; als hij het goed vindt, ga ik verder.",
-      "Ik bedenk zelf een tijdelijke oplossing zonder toestemming en maak de klus af.",
-      "Ik stop met werken en meld het bij mijn leidinggevende, zodat hij maatregelen kan nemen."
+      "Ik maak vooraf duidelijk wat ik ga doen.",
+      "Ik trek voldoende tijd uit voor een werkplekinspectie.",
+      "Ik kijk alleen en stel geen vragen of geef geen adviezen."
     ],
-    "explanation": "Werknemers hebben het recht (en de plicht) om het werk te onderbreken bij ernstig gevaar."
+    "back": "Maak vooraf duidelijk wat je gaat doen EN trek voldoende tijd uit voor de inspectie.",
+    "explanation": "Communicatie is essentieel. Alleen maar stil toekijken wekt wantrouwen. Je moet juist de dialoog aangaan met werknemers over veiligheid."
   },
   {
     "chapter": "a5",
-    "front": "Wat is het hoofddoel van een toolboxmeeting?",
-    "back": "Het motiveren en voorlichten van medewerkers om onveilig gedrag te voorkomen.",
+    "front": "Je moet specifieke voorlichting geven aan nieuwe medewerkers die de algemene veiligheidsregels al kennen. Welke bedrijfsspecifieke onderwerpen ga je zeker bespreken?",
     "options": [
-      "Zorgen dat er geen ongevallen gebeuren.",
-      "Het motiveren en voorlichten van medewerkers om onveilig gedrag te voorkomen.",
-      "Alle medewerkers voor een klus bij elkaar brengen om de taken door te spreken."
+      "De explosiegevaarlijke zones op deze specifieke werkplek.",
+      "De richtlijnen van ontruiming op deze specifieke werkplek.",
+      "Beide bovenstaande."
     ],
-    "explanation": "Een toolboxmeeting is bedoeld om de veiligheidsbewustwording en kennis over specifieke risico's te vergroten."
+    "back": "Beide: de specifieke explosiegevaarlijke zones en de specifieke ontruimingsrichtlijnen van die locatie.",
+    "explanation": "Voorlichting op de eerste werkdag moet gaan over de specifieke risico's en noodplannen van exact díe werkplek, want de algemene veiligheidsregels zijn (bijv. door VCA) al bekend."
+  },
+  {
+    "chapter": "a5",
+    "front": "Je werkt als leidinggevende in een omgeving waar oogletsel kan voorkomen. Wat is de juiste aanpak om dit te voorkomen?",
+    "options": [
+      "Ik zorg dat medewerkers een veiligheidsbril dragen als dat nodig is volgens de instructies/TRA.",
+      "Ik neem geen risico en verplicht vanaf vandaag voor iedereen en altijd een veiligheidsbril, ook als er geen risico is.",
+      "De zeer ervaren medewerkers weten zelf wel wanneer ze een bril moeten dragen, ik controleer hen niet."
+    ],
+    "back": "Ik zorg dat medewerkers een veiligheidsbril dragen als dat nodig is volgens de specifieke instructies en TRA.",
+    "explanation": "PBM's verplichten waar geen risico is, ondermijnt het draagvlak. Je moet handhaven op de plekken/taken waar het risico wél is vastgesteld. Ervaring ontslaat niemand van de draagplicht."
+  },
+  {
+    "chapter": "a5",
+    "front": "Je bent leidinggevende bij een sloopbedrijf en moet actief onveilige handelingen voorkomen. Wat doe je structureel?\n(Meerdere antwoorden mogelijk)",
+    "options": [
+      "Ik organiseer regelmatig een toolbox/werkoverleg over VGM (Veiligheid, Gezondheid, Milieu).",
+      "Ik leg afspraken over veilig werken vast.",
+      "Ik voer werkplekinspecties uit tijdens de werkzaamheden.",
+      "Al het bovenstaande."
+    ],
+    "back": "Al het bovenstaande: Toolboxen organiseren, afspraken vastleggen en werkplekinspecties uitvoeren.",
+    "explanation": "Dit is de kern van de VCA-VOL taak van de operationeel leidinggevende: overleggen (toolbox), vastleggen en controleren (inspecties)."
+  },
+  {
+    "chapter": "a5",
+    "front": "Jouw team van lassers begint met laswerkzaamheden in een besloten ruimte. Welke veiligheidsmaatregelen neem je?\n(Meerdere antwoorden mogelijk)",
+    "options": [
+      "Ik zorg dat er een mangatwacht (buitenwacht) aanwezig is.",
+      "Ik zorg voor plaatselijke afzuiging en goede ventilatie in de ruimte.",
+      "Ik zet de ingang af met pylonnen om onbevoegden tegen te houden.",
+      "Al het bovenstaande."
+    ],
+    "back": "Al het bovenstaande is noodzakelijk: Mangatwacht, goede ventilatie/afzuiging (vooral bij heet werk zoals lassen), en het afzetten van de ruimte.",
+    "explanation": "Werken in een besloten ruimte met lasapparatuur brengt grote verstikkings- en brandrisico's met zich mee. Toezicht, afscherming en afzuiging zijn cruciaal."
   }
 ]
