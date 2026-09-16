@@ -416,136 +416,6 @@
     "explanation": "Werken in een stofflge omgeving"
   },
   {
-    "chapter": "b1",
-    "front": "Oefening [3] Oefening [4]",
-    "back": "Vraag [1]",
-    "options": [
-      "Vraag [1]",
-      "Vraag [2]",
-      "Markeringen",
-      "Markeringen",
-      "Oefening"
-    ],
-    "explanation": "Vanaf welke geluidssterkte lopen mensen gevaar?"
-  },
-  {
-    "chapter": "b1",
-    "front": "Oefening [2] Oefening [3]",
-    "back": "Oefening [4]",
-    "options": [
-      "Oefening [4]",
-      "Vraag [1]",
-      "Vraag [2]",
-      "Markeringen",
-      "Markeringen"
-    ],
-    "explanation": "Oefening"
-  },
-  {
-    "chapter": "b1",
-    "front": "Item 4 Item 3",
-    "back": "Item 3",
-    "options": [
-      "Item 3",
-      "Bevestig veiligstelling met tag",
-      "Item 2",
-      "Item 2",
-      "Item 1"
-    ],
-    "explanation": "Item 1"
-  },
-  {
-    "chapter": "b1",
-    "front": "Markeringen \\\\n",
-    "back": "\\\\n",
-    "options": [
-      "\\\\n",
-      "Markeringen",
-      "\\\\n",
-      "Oefening",
-      "Vanaf welke geluidssterkte lopen mensen gevaar?\\\\n"
-    ],
-    "explanation": "\\\\n"
-  },
-  {
-    "chapter": "b1",
-    "front": "Vraag [2] Markeringen",
-    "back": "\\\\n",
-    "options": [
-      "\\\\n",
-      "\\\\n",
-      "Markeringen",
-      "\\\\n",
-      "Oefening"
-    ],
-    "explanation": "Oefening"
-  },
-  {
-    "chapter": "b1",
-    "front": "Item 3 Bevestig veiligstelling met tag",
-    "back": "Item 2",
-    "options": [
-      "Item 2",
-      "Item 2",
-      "Plaats slot en borg",
-      "Item 1",
-      "Item 1"
-    ],
-    "explanation": "Schakel uit"
-  },
-  {
-    "chapter": "b1",
-    "front": "\\\\n \\\\n",
-    "back": "Markeringen",
-    "options": [
-      "Markeringen",
-      "\\\\n",
-      "Oefening",
-      "Oefening [1]",
-      "Je kunt verschillende veiligheids- en gezondheidssignaleringsborden op de werkplek tegenkomen.\\\\r"
-    ],
-    "explanation": "\\\\n"
-  },
-  {
-    "chapter": "b1",
-    "front": "Item 2 Smalle doorgang",
-    "back": "Item 1",
-    "options": [
-      "Item 1",
-      "Item 1",
-      "Er is gevaar",
-      "De markeringen geven aan dat er gevaar of risico aanwezig is.\\\\n",
-      "\\\\n"
-    ],
-    "explanation": "Let op dat lint geen afscherming is."
-  },
-  {
-    "chapter": "b1",
-    "front": "Oefening [4] Vraag [1]",
-    "back": "Vraag [2]",
-    "options": [
-      "Vraag [2]",
-      "Markeringen",
-      "Markeringen",
-      "Oefening",
-      "Oefening [1]"
-    ],
-    "explanation": "Je kunt verschillende veiligheids- en gezondheidssignaleringsborden op de werkplek tegenkomen.\\r"
-  },
-  {
-    "chapter": "b1",
-    "front": "Item 2 Item 2",
-    "back": "Smalle doorgang",
-    "options": [
-      "Smalle doorgang",
-      "Item 1",
-      "Item 1",
-      "Er is gevaar",
-      "De markeringen geven aan dat er gevaar of risico aanwezig is.\\n"
-    ],
-    "explanation": "Let op dat lint geen afscherming is."
-  },
-  {
     "chapter": "b2",
     "front": "Oefening Oefening",
     "back": "Oog- en gelaatsbescherming",
@@ -1010,5 +880,115 @@
     ],
     "back": "Een korte vergadering in een informele sfeer over veiligheid, gezondheid en milieu.",
     "explanation": "Een toolboxmeeting is een kort, periodiek overleg op de werkplek zelf, specifiek gericht op het bespreken en bevorderen van de veiligheid."
+  },
+  {
+    "chapter": "b1",
+    "front": "Vanaf welke geluidssterkte op de werkplek lopen mensen gevaar op gehoorschade?",
+    "options": [
+      "70 dB(A)",
+      "75 dB(A)",
+      "80 dB(A)"
+    ],
+    "back": "80 dB(A)",
+    "explanation": "Vanaf een geluidssterkte van 80 dB(A) is de werkgever verplicht gehoorbescherming aan te bieden, omdat werknemers vanaf dit niveau gevaar lopen op blijvende gehoorschade."
+  },
+  {
+    "chapter": "b1",
+    "front": "Welk gevaar bij struikelen hoort specifiek bij 'persoonlijk gedrag'?",
+    "options": [
+      "De indeling van de werkplek of voorschriften",
+      "Een loszittende tegel of oneffenheid in de vloer",
+      "Niet opletten waar men loopt of afgeleid zijn"
+    ],
+    "back": "Niet opletten waar men loopt of afgeleid zijn",
+    "explanation": "Niet opletten is een persoonlijk gedrag (menselijk falen). Een loszittende tegel is een onveilige situatie (werkplek)."
+  },
+  {
+    "chapter": "b1",
+    "front": "Wat is de juiste volgorde van de stappen in de LOTOTO-procedure (Lock Out, Tag Out, Try Out) bij het veiligstellen van een installatie?",
+    "options": [
+      "1. Schakel uit, 2. Plaats slot en borg (Lock), 3. Bevestig veiligstelling met tag (Tag), 4. Controleer en test de veiligstelling (Try)",
+      "1. Plaats slot en borg (Lock), 2. Schakel uit, 3. Test de veiligstelling (Try), 4. Plaats tag (Tag)",
+      "1. Test de veiligstelling (Try), 2. Schakel uit, 3. Plaats slot en borg (Lock), 4. Bevestig veiligstelling met tag (Tag)"
+    ],
+    "back": "1. Schakel uit, 2. Plaats slot en borg (Lock), 3. Bevestig veiligstelling met tag (Tag), 4. Controleer en test de veiligstelling (Try)",
+    "explanation": "De procedure is: Uitschakelen -> Lock (fysiek vergrendelen met een slot) -> Tag (markeren met een waarschuwingslabel) -> Try (testen of het echt spanningsvrij of drukloos is)."
+  },
+  {
+    "chapter": "b1",
+    "front": "Wat betekent 'veiligstellen' in het kader van machines en installaties?",
+    "options": [
+      "Het veilig opbergen van materialen, zodat ze niet gebruikt kunnen worden door onbevoegden.",
+      "Het uitschakelen van machines en installaties, en borgen (vergrendelen) dat ze niet per ongeluk weer aangezet kunnen worden.",
+      "Het instellen van bewakingscamera's rondom de machine."
+    ],
+    "back": "Het uitschakelen van machines en installaties, en borgen (vergrendelen) dat ze niet per ongeluk weer aangezet kunnen worden.",
+    "explanation": "Veiligstellen draait erom dat een machine (elektriciteit, gas, vloeistof) volledig is uitgeschakeld en zodanig vergrendeld is dat niemand hem per ongeluk kan inschakelen terwijl jij aan het werk bent."
+  },
+  {
+    "chapter": "b1",
+    "front": "Aan welke uiterlijke kenmerken herken je 'veiligheids- en reddingsborden' (zoals een nooduitgang of EHBO-post)?",
+    "options": [
+      "Een rond, blauw bord met een wit symbool.",
+      "Een bord met een rode rand en een rode diagonale streep.",
+      "Een rechthoekig of vierkant, groen bord met een wit symbool."
+    ],
+    "back": "Een rechthoekig of vierkant, groen bord met een wit symbool.",
+    "explanation": "Groene borden met een wit symbool wijzen op een veilige situatie, vluchtroutes of reddingsmiddelen."
+  },
+  {
+    "chapter": "b1",
+    "front": "Aan welke uiterlijke kenmerken herken je 'verbodsborden' (zoals 'Niet roken')?",
+    "options": [
+      "Een rond, blauw bord met een wit symbool.",
+      "Een rond, wit bord met een rode rand en een rode diagonale streep.",
+      "Een driehoekig, geel bord met een zwarte rand."
+    ],
+    "back": "Een rond, wit bord met een rode rand en een rode diagonale streep.",
+    "explanation": "De kleur rood gecombineerd met de diagonale streep geeft altijd een verbod aan."
+  },
+  {
+    "chapter": "b1",
+    "front": "Aan welke uiterlijke kenmerken herken je 'brandbestrijdingsborden' (zoals een brandblusser of brandslang)?",
+    "options": [
+      "Een rechthoekig of vierkant, groen bord met een wit symbool.",
+      "Een rechthoekig of vierkant, rood bord met een wit symbool of pictogram.",
+      "Een rond, blauw bord met een wit symbool."
+    ],
+    "back": "Een rechthoekig of vierkant, rood bord met een wit symbool of pictogram.",
+    "explanation": "Rode vierkante of rechthoekige borden geven de locatie van brandbestrijdingsmiddelen aan."
+  },
+  {
+    "chapter": "b1",
+    "front": "Aan welke uiterlijke kenmerken herken je 'gebodsborden' (zoals 'Gehoorbescherming verplicht')?",
+    "options": [
+      "Een driehoekig, geel bord met een zwarte rand.",
+      "Een rond, blauw bord met een wit symbool of pictogram.",
+      "Een rechthoekig, groen bord met een wit symbool."
+    ],
+    "back": "Een rond, blauw bord met een wit symbool of pictogram.",
+    "explanation": "Blauwe ronde borden geven een verplichting (gebod) aan."
+  },
+  {
+    "chapter": "b1",
+    "front": "Welk symbool staat er op het groene veiligheidsbord dat de nooduitgang of vluchtrichting aangeeft?",
+    "options": [
+      "Een wit hartje met een kruis of plus-teken.",
+      "Een witte vlam.",
+      "Een rennende witte persoon en eventueel een witte pijl."
+    ],
+    "back": "Een rennende witte persoon en eventueel een witte pijl.",
+    "explanation": "Dit is het universele bord voor vluchtroutes en nooduitgangen."
+  },
+  {
+    "chapter": "b1",
+    "front": "Welk symbool staat er op het groene veiligheidsbord dat de locatie van een AED (defibrillator) aangeeft?",
+    "options": [
+      "Een rennende witte persoon en een pijl.",
+      "Een wit hartje met een kruis of plus-teken (of een bliksemschicht erin).",
+      "Een rood kruis op een witte achtergrond."
+    ],
+    "back": "Een wit hartje met een kruis of plus-teken (of een bliksemschicht erin).",
+    "explanation": "Dit bord wijst de weg naar levensreddende apparatuur in geval van hartfalen (AED)."
   }
 ]
